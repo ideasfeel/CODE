@@ -1,3 +1,4 @@
+台灣,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
@@ -74,6 +75,9 @@ Smart 知識台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn19
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 國會頻道1,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv084
 國會頻道2,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv085
+
+
+新聞,#genre#
 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視財經台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv056
@@ -89,6 +93,9 @@ TVBS 新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 寰宇新聞台灣台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn15
 寰宇財經台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn23
 半島國際新聞台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv10
+
+
+電影,#genre#
 HBOᴴᴰ,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 WarnerTV,https://stream1.freetv.fun/3cb6d3f8669697ace44349c7f930813c4d90680244a07b501e224331f4ddfb45.ctv
