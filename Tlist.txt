@@ -8,7 +8,6 @@ Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 民視,rtmp://f13h.mine.nu/sat/tv051
 民視第一台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv003
 民視台灣台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv001
-民視影劇台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv09
 民視旅遊台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv07
 民視綜藝台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv004
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -53,7 +52,6 @@ ELTV 生活英語,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn20
 亞洲旅遊台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn17
 GINX Esports TV,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 智林體育台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv101
-TraceSports,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv077
 公視戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv042
 采昌影劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv049
 台灣戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn22
@@ -77,22 +75,18 @@ Smart 知識台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn19
 國會頻道2,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv085
 
 
+
 新聞,#genre#
 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視財經台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv056
-中視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-華視新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv052
 TVBS 新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 東森新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
-東森財經新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 中天新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009
-鏡電視新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv075
 寰宇新聞台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn14
-寰宇新聞台灣台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn15
-寰宇財經台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn23
 半島國際新聞台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv10
+
 
 
 電影,#genre#
