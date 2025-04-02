@@ -2,10 +2,10 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.112114.xyz/pp.xml.gz"
 
 #EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ.png" group-title="台灣", 緯來日本ᴴᴰ
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandjapan/playlist.m3u8
+rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ3.png" group-title="台灣", 緯來育樂ᴴᴰ
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandyule/playlist.m3u8
+rtmp://f13h.mine.nu/sat/tv701
 
 #EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ4.png" group-title="台灣", 緯來精采ᴴᴰ
 http://61.221.215.25:8800/hls/48/index.m3u8
@@ -125,6 +125,9 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn20
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="台灣", 非凡商業台
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
 
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="台灣", 亞洲旅遊台
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn17
+
 #EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="台灣", GINX Esports TV
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 
@@ -232,6 +235,11 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv10
 
 
 
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="體育", DAZN1
+rtmp://f13h.mine.nu/sat/tv731
+
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="體育", DAZN2
+rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ2.png" group-title="體育", 緯來體育ᴴᴰ
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
@@ -262,6 +270,9 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn06
 
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="體育", 博斯魅力台
 https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn04
+
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="體育", 智林體育台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv101
 
 
 
