@@ -125,9 +125,6 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn20
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="台灣", 非凡商業台
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
 
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="台灣", 亞洲旅遊台
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="台灣", GINX Esports TV
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 
