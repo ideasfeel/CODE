@@ -229,9 +229,6 @@ http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/p
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="新聞", 中天新聞台
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009
 
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="新聞", 寰宇新聞台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn14
-
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="新聞", 半島國際新聞台
 https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv10
 
@@ -239,12 +236,14 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv10
 
 
 
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ2.png" group-title="體育", 緯來體育ᴴᴰ
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="體育", DAZN1
-rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-id="ELTA體育2" tvg-name="ELTA體育2" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-2%E5%8F%B0.png" group-title="體育", ELTA體育2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport2_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="體育", DAZN2
-rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-id="ELTA體育3" tvg-name="ELTA體育3" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-3%E5%8F%B0.png" group-title="體育", ELTA體育3
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport3_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="體育", 博斯運動一台
 https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn07
@@ -261,20 +260,11 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn13
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="體育", 博斯網球台
 https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn09
 
-#EXTINF:-1 tvg-id="ELTA體育2" tvg-name="ELTA體育2" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-2%E5%8F%B0.png" group-title="體育", ELTA體育2
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport2_twn/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ELTA體育3" tvg-name="ELTA體育3" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-3%E5%8F%B0.png" group-title="體育", ELTA體育3
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport3_twn/playlist.m3u8
-
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="體育", 博斯高球二台
 https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn06
 
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="體育", 博斯魅力台
 https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn04
-
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ2.png" group-title="體育", 緯來體育ᴴᴰ
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 
 
 
