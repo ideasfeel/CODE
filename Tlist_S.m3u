@@ -273,9 +273,6 @@ http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/playlist
 #EXTINF:-1 tvg-id="HBOᴴᴰ" tvg-name="HBOᴴᴰ" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/HBO.png" group-title="電影",HBOᴴᴰ
 http://125.227.210.55:8153/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="電影",HBO
-http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="WarnerTV" tvg-logo="https://assets.livednow.com/logo/Warner-TV-TW.png" group-title="電影",WarnerTV
 https://stream1.freetv.fun/3cb6d3f8669697ace44349c7f930813c4d90680244a07b501e224331f4ddfb45.ctv
 
