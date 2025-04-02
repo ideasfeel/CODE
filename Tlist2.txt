@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="96baab859897df33529676db991e3f7a" tvg-chno="2",頻道總表
-http://jaz9.my.to:9981/stream/channelid/95140502?profile=pass
+
 #EXTINF:-1 tvg-id="127054e0d1a9bd6a834d4a30aaf0051b" tvg-chno="6",民視
 http://jaz9.my.to:9981/stream/channelid/1616146450?profile=pass
 #EXTINF:-1 tvg-id="68d9a0239648321a3be026cb9d21c129" tvg-chno="7",人間衛視
