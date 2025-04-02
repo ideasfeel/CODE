@@ -164,7 +164,6 @@ EUROSPORT,http://jaz9.my.to:9981/stream/channelid/83582819?profile=pass
 
 電影,#genre#
 HBOᴴᴰ,http://125.227.210.55:8153/VideoInput/play.ts
-HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 WarnerTV,http://jaz9.my.to:9981/stream/channelid/1035244539?profile=pass
 Hollywoodᴴᴰ,https://stream1.freetv.fun/a813570c8e88be54a4786f7b757a3a8b49b5bc85ed2232fc1242cfd5cfb06480.ctv
 緯來電影,https://stream1.freetv.fun/9e136afb1dc4118ba8ebb860706c3dd76e3991d9f9acf3a9abdeee8e1f0261f2.m3u8
