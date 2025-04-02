@@ -188,7 +188,6 @@ MCE我的歐洲電影,http://jaz9.my.to:9981/stream/channelid/512333308?profile=
 紀實,#genre#
 HGTV居家樂活頻道,http://jaz9.my.to:9981/stream/channelid/986731478?profile=pass
 LOVE NATURE,http://jaz9.my.to:9981/stream/channelid/1407267167?profile=pass
-Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 Discovery亞洲,http://jaz9.my.to:9981/stream/channelid/1178871237?profile=pass
 Discovery科學,http://jaz9.my.to:9981/stream/channelid/1481966099?profile=pass
