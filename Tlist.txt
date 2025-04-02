@@ -3,103 +3,199 @@
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-民視,rtmp://f13h.mine.nu/sat/tv051
-民視第一台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv003
-民視台灣台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv001
-民視旅遊台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv07
-民視綜藝台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv004
-中視,rtmp://f13h.mine.nu/sat/tv091
-中視經典台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv080
-中視菁采台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv064
-中天亞洲台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv109
-華視,rtmp://f13h.mine.nu/sat/tv111
-靖天綜合台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv046
-靖天國際台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv063
-靖天戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv058
-靖天日本台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv047
-靖天映畫台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv055
-靖天卡通台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv044
-靖天育樂台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv062
-靖天資訊台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv065
-靖天歡樂台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv054
-龍華偶像台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn12
-龍華卡通台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn01
-龍華戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn18
-龍華日韓台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn11
-靖洋戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv045
-靖洋卡通 Nice Bingo,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv057
-TVBS,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS 歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
-TVBS 精采台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv067
-八大精彩台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv034
-八大綜藝台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv039
-台視,rtmp://f13h.mine.nu/sat/tv071
-DAZN1,rtmp://f13h.mine.nu/sat/tv731
-DAZN2,rtmp://f13h.mine.nu/sat/tv741
-博斯運動一台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn07
-博斯運動二台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn08
-博斯無限台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn10
-博斯無限二台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn13
-博斯網球台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn09
-博斯高球台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn05
-博斯高球二台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn06
-博斯魅力台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn04
-ELTA 娛樂台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv070
-ELTV 生活英語,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn20
-非凡商業台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
-亞洲旅遊台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn17
-GINX Esports TV,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
-智林體育台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv101
-公視戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv042
-采昌影劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv049
-台灣戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn22
-i-Fun 動漫台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15
-Classica 古典樂,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv059
-Mezzo Live,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv083
-豬哥亮歌廳秀,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv006
-Trace Urban,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv082
-韓國娛樂台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv016
-Arirang TV,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv079
-VOA 美國之音,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv03
-第1商業台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv104
-Smart 知識台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn19
-視納華仁紀實頻道,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv013
-客家電視台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv043
-好消息,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv16
-好消息2台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv17
-大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-國會頻道1,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv084
-國會頻道2,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv085
+民視,http://jaz9.my.to:9981/stream/channelid/1616146450?profile=pass
+台視,http://jaz9.my.to:9981/stream/channelid/259864050?profile=pass
+台視綜合台,http://jaz9.my.to:9981/stream/channelid/1538264854?profile=pass
+中視,http://jaz9.my.to:9981/stream/channelid/1738913410?profile=pass
+中視經典台,http://jaz9.my.to:9981/stream/channelid/1179385415?profile=pass
+中視菁采台,http://jaz9.my.to:9981/stream/channelid/1897620988?profile=pass
+華視,http://jaz9.my.to:9981/stream/channelid/1796453130?profile=pass
+公視,http://jaz9.my.to:9981/stream/channelid/319877806?profile=pass
+公視台語台,http://jaz9.my.to:9981/stream/channelid/847217608?profile=pass
+人間衛視,http://jaz9.my.to:9981/stream/channelid/597743976?profile=pass
+大愛電視台,http://jaz9.my.to:9981/stream/channelid/852984024?profile=pass
+好消息頻道,http://jaz9.my.to:9981/stream/channelid/1612010384?profile=pass
+原住民電視台,http://jaz9.my.to:9981/stream/channelid/291310817?profile=pass
+客家電視台,http://jaz9.my.to:9981/stream/channelid/1568175817?profile=pass
+華視教育體育文化,http://jaz9.my.to:9981/stream/channelid/1451132457?profile=pass
+公視兒少台PTSxs,http://jaz9.my.to:9981/stream/channelid/35170352?profile=pass
+TVBS,http://jaz9.my.to:9981/stream/channelid/238840871?profile=pass
+CARTOONITO,http://jaz9.my.to:9981/stream/channelid/1879371742?profile=pass
+ELTV生活英語台,http://jaz9.my.to:9981/stream/channelid/1668585025?profile=pass
+龍華動畫台,http://jaz9.my.to:9981/stream/channelid/740351897?profile=pass
+尼克兒童頻道,http://jaz9.my.to:9981/stream/channelid/597126378?profile=pass
+靖洋卡通台,http://jaz9.my.to:9981/stream/channelid/489380369?profile=pass
+靖天卡通台,http://jaz9.my.to:9981/stream/channelid/1913278926?profile=pass
+靖天國際台,http://jaz9.my.to:9981/stream/channelid/1561048365?profile=pass
+CBeebies,http://jaz9.my.to:9981/stream/channelid/1800590565?profile=pass
+達文西頻道,http://jaz9.my.to:9981/stream/channelid/1335612829?profile=pass
+Nick Jr,http://jaz9.my.to:9981/stream/channelid/328988413?profile=pass
+Dreamworks夢工廠,http://jaz9.my.to:9981/stream/channelid/1407092244?profile=pass
+國會頻道1台,http://jaz9.my.to:9981/stream/channelid/1425474803?profile=pass
+國會頻道2台,http://jaz9.my.to:9981/stream/channelid/831137651?profile=pass
+Fun探索娛樂台,http://jaz9.my.to:9981/stream/channelid/550035171?profile=pass
+Medici-arts,http://jaz9.my.to:9981/stream/channelid/1079868295?profile=pass
+MTV Live,http://jaz9.my.to:9981/stream/channelid/553623779?profile=pass
+MTV綜合台,http://jaz9.my.to:9981/stream/channelid/762752409?profile=pass
+Mezzo Live,http://jaz9.my.to:9981/stream/channelid/315130552?profile=pass
+TRACE Urban,http://jaz9.my.to:9981/stream/channelid/588383586?profile=pass
+古典音樂台,http://jaz9.my.to:9981/stream/channelid/1706268312?profile=pass
+CMusic,http://jaz9.my.to:9981/stream/channelid/205887400?profile=pass
+麥哲倫頻道,http://jaz9.my.to:9981/stream/channelid/462113764?profile=pass
+Global Trekker,http://jaz9.my.to:9981/stream/channelid/802676756?profile=pass
+罪案偵緝頻道,http://jaz9.my.to:9981/stream/channelid/999672634?profile=pass
+INULTRA,http://jaz9.my.to:9981/stream/channelid/1716621041?profile=pass
+寵物頻道,http://jaz9.my.to:9981/stream/channelid/1877574166?profile=pass
+LUXE TV,http://jaz9.my.to:9981/stream/channelid/957855825?profile=pass
+Lifetime,http://jaz9.my.to:9981/stream/channelid/189530235?profile=pass
+幸福空間居家台,http://jaz9.my.to:9981/stream/channelid/1800392472?profile=pass
+滾動力rollor,http://jaz9.my.to:9981/stream/channelid/1757495297?profile=pass
+車迷TV,http://jaz9.my.to:9981/stream/channelid/244645018?profile=pass
+美食星球頻道,http://jaz9.my.to:9981/stream/channelid/1872112702?profile=pass
+亞洲美食頻道,http://jaz9.my.to:9981/stream/channelid/1612027957?profile=pass
+FoodNetwork美食台,http://jaz9.my.to:9981/stream/channelid/504793477?profile=pass
+亞洲旅遊台,http://jaz9.my.to:9981/stream/channelid/523044952?profile=pass
+EYE旅遊台,http://jaz9.my.to:9981/stream/channelid/2042201446?profile=pass
+Travel Channel,http://jaz9.my.to:9981/stream/channelid/722812232?profile=pass
+FashionTV時尚頻道,http://jaz9.my.to:9981/stream/channelid/495313713?profile=pass
+TV5MONDE STYLE生活時尚,http://jaz9.my.to:9981/stream/channelid/1270846289?profile=pass
+愛爾達綜合台,http://jaz9.my.to:9981/stream/channelid/1413948617?profile=pass
+三立綜合台,http://jaz9.my.to:9981/stream/channelid/1293067157?profile=pass
+靖天資訊台,http://jaz9.my.to:9981/stream/channelid/1769365725?profile=pass
+靖天綜合台,http://jaz9.my.to:9981/stream/channelid/786156321?profile=pass
+靖天育樂台,http://jaz9.my.to:9981/stream/channelid/1301673383?profile=pass
+Smart知識,http://jaz9.my.to:9981/stream/channelid/104008874?profile=pass
+亞洲綜合台,http://jaz9.my.to:9981/stream/channelid/1453607646?profile=pass
+寰宇綜合台,http://jaz9.my.to:9981/stream/channelid/1389880012?profile=pass
+TVBS精采台,http://jaz9.my.to:9981/stream/channelid/146985504?profile=pass
+壹電視綜合台,http://jaz9.my.to:9981/stream/channelid/222777466?profile=pass
+緯來精采台,http://jaz9.my.to:9981/stream/channelid/1663030956?profile=pass
+天天電視台,http://jaz9.my.to:9981/stream/channelid/386753681?profile=pass
+ETtoday綜合台,http://jaz9.my.to:9981/stream/channelid/1231050360?profile=pass
+民視第1台,http://jaz9.my.to:9981/stream/channelid/1535899151?profile=pass
+民視台灣台,http://jaz9.my.to:9981/stream/channelid/15625665?profile=pass
+靖天歡樂台,http://jaz9.my.to:9981/stream/channelid/507408777?profile=pass
+新唐人亞太台,http://jaz9.my.to:9981/stream/channelid/753956123?profile=pass
+八大優頻道,http://jaz9.my.to:9981/stream/channelid/589931668?profile=pass
+momo綜合台,http://jaz9.my.to:9981/stream/channelid/1614871488?profile=pass
+TVBS歡樂台,http://jaz9.my.to:9981/stream/channelid/1129343523?profile=pass
+信吉電視台,http://jaz9.my.to:9981/stream/channelid/100036745?profile=pass
+冠軍電視台,http://jaz9.my.to:9981/stream/channelid/216247267?profile=pass
+華藝台灣台,http://jaz9.my.to:9981/stream/channelid/1259390369?profile=pass
+信吉藝文台,http://jaz9.my.to:9981/stream/channelid/1584151499?profile=pass
+大立電視台,http://jaz9.my.to:9981/stream/channelid/620837205?profile=pass
+富立電視台,http://jaz9.my.to:9981/stream/channelid/349487096?profile=pass
+新天地民俗台,http://jaz9.my.to:9981/stream/channelid/1855964047?profile=pass
+三立戲劇台,http://jaz9.my.to:9981/stream/channelid/50644353?profile=pass
+台灣戲劇台,http://jaz9.my.to:9981/stream/channelid/1846488381?profile=pass
+龍華戲劇台,http://jaz9.my.to:9981/stream/channelid/215068042?profile=pass
+龍華偶像台,http://jaz9.my.to:9981/stream/channelid/1425071104?profile=pass
+龍華影劇台,http://jaz9.my.to:9981/stream/channelid/2027027977?profile=pass
+愛爾達影劇台,http://jaz9.my.to:9981/stream/channelid/1796387216?profile=pass
+靖天戲劇台,http://jaz9.my.to:9981/stream/channelid/639540122?profile=pass
+靖洋戲劇台,http://jaz9.my.to:9981/stream/channelid/1977740530?profile=pass
+靖天日本台,http://jaz9.my.to:9981/stream/channelid/1036244489?profile=pass
+EYE戲劇台,http://jaz9.my.to:9981/stream/channelid/242058771?profile=pass
+曼迪日本台,http://jaz9.my.to:9981/stream/channelid/676373936?profile=pass
+Animax,http://jaz9.my.to:9981/stream/channelid/1450937406?profile=pass
+tvN,http://jaz9.my.to:9981/stream/channelid/1231189763?profile=pass
+韓國娛樂台KMTV,http://jaz9.my.to:9981/stream/channelid/496179850?profile=pass
+華藝MBC綜合台",http://jaz9.my.to:9981/stream/channelid/830953727?profile=pass
+ROCK Extreme,http://jaz9.my.to:9981/stream/channelid/1059832655?profile=pass
+ROCK Entertainment,http://jaz9.my.to:9981/stream/channelid/117435644?profile=pass
+華藝影劇台,http://jaz9.my.to:9981/stream/channelid/1713262118?profile=pass
+采昌影劇台,http://jaz9.my.to:9981/stream/channelid/633337194?profile=pass
+TV5MONDE,http://jaz9.my.to:9981/stream/channelid/1050777996?profile=pass
+Arirang,http://jaz9.my.to:9981/stream/channelid/809294219?profile=pass
+FRANCE24F,http://jaz9.my.to:9981/stream/channelid/979076074?profile=pass
 
 
 
 新聞,#genre#
-民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視財經台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv056
-TVBS 新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+民視新聞台,http://jaz9.my.to:9981/stream/channelid/754144857?profile=pass
+台視新聞台,http://jaz9.my.to:9981/stream/channelid/48715249?profile=pass
+台視財經台,http://jaz9.my.to:9981/stream/channelid/400511365?profile=pass
+中視新聞台,http://jaz9.my.to:9981/stream/channelid/1564473091?profile=pass
+華視新聞資訊台,http://jaz9.my.to:9981/stream/channelid/1819854220?profile=pass
+寰宇新聞台,http://jaz9.my.to:9981/stream/channelid/414839974?profile=pass
+寰宇新聞台灣台,http://jaz9.my.to:9981/stream/channelid/2124147170?profile=pass
+寰宇財經台,http://jaz9.my.to:9981/stream/channelid/2010074229?profile=pass
+三立財經新聞台,http://jaz9.my.to:9981/stream/channelid/172379287?profile=pass
+壹電視新聞台,http://jaz9.my.to:9981/stream/channelid/367845163?profile=pass
+鏡電視新聞台,http://jaz9.my.to:9981/stream/channelid/1016432023?profile=pass
+非凡新聞台,http://jaz9.my.to:9981/stream/channelid/1274209387?profile=pass
+TVBS新聞台,http://jaz9.my.to:9981/stream/channelid/1875582297?profile=pass
 東森新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
-非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
-中天新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009
-寰宇新聞台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn14
-半島國際新聞台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv10
+CNN國際頻道,http://jaz9.my.to:9981/stream/channelid/1273747551?profile=pass
+BBC World News,http://jaz9.my.to:9981/stream/channelid/1302404903?profile=pass
+彭博財經台,http://jaz9.my.to:9981/stream/channelid/913545910?profile=pass
+Channel NewsAsia,http://jaz9.my.to:9981/stream/channelid/2042211329?profile=pass
+CNBC Asia,http://jaz9.my.to:9981/stream/channelid/1714483306?profile=pass
+Euronews,http://jaz9.my.to:9981/stream/channelid/937795652?profile=pass
+德國之聲,http://jaz9.my.to:9981/stream/channelid/965339415?profile=pass
+FRANCE24E,http://jaz9.my.to:9981/stream/channelid/374168680?profile=pass
+TaiwanPlus,http://jaz9.my.to:9981/stream/channelid/663492456?profile=pass
+NHK新聞資訊台,http://jaz9.my.to:9981/stream/channelid/1442870598?profile=pass
+半島英語新聞台,http://jaz9.my.to:9981/stream/channelid/399743752?profile=pass
+
+
+
+體育,#genre#
+愛爾達體育1台,http://jaz9.my.to:9981/stream/channelid/1498275861?profile=pass
+愛爾達體育2台,http://jaz9.my.to:9981/stream/channelid/1570446804?profile=pass
+愛爾達體育3台,http://jaz9.my.to:9981/stream/channelid/1041050759?profile=pass
+愛爾達體育4台,http://jaz9.my.to:9981/stream/channelid/366311027?profile=pass
+博斯高球1台,http://jaz9.my.to:9981/stream/channelid/1745601572?profile=pass
+博斯高球2台,http://jaz9.my.to:9981/stream/channelid/1543277354?profile=pass
+博斯運動1台,http://jaz9.my.to:9981/stream/channelid/1587752829?profile=pass
+博斯運動2台,http://jaz9.my.to:9981/stream/channelid/1469840363?profile=pass
+博斯網球台,http://jaz9.my.to:9981/stream/channelid/2095192300?profile=pass
+博斯魅力網,http://jaz9.my.to:9981/stream/channelid/730827095?profile=pass
+博斯無限台,http://jaz9.my.to:9981/stream/channelid/518464583?profile=pass
+博斯無限2台,http://jaz9.my.to:9981/stream/channelid/1919547619?profile=pass
+TRACE Sport Stars,http://jaz9.my.to:9981/stream/channelid/1322807269?profile=pass
+DAZN1,rtmp://f13h.mine.nu/sat/tv731
+DAZN2,rtmp://f13h.mine.nu/sat/tv741
+DAZN3,http://jaz9.my.to:9981/stream/channelid/1415211136?profile=pass
+智林體育台,http://jaz9.my.to:9981/stream/channelid/204314342?profile=pass
+EUROSPORT,http://jaz9.my.to:9981/stream/channelid/83582819?profile=pass
 
 
 
 電影,#genre#
 HBOᴴᴰ,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-WarnerTV,https://stream1.freetv.fun/3cb6d3f8669697ace44349c7f930813c4d90680244a07b501e224331f4ddfb45.ctv
+WarnerTV,http://jaz9.my.to:9981/stream/channelid/1035244539?profile=pass
 Hollywoodᴴᴰ,https://stream1.freetv.fun/a813570c8e88be54a4786f7b757a3a8b49b5bc85ed2232fc1242cfd5cfb06480.ctv
-AMC 電影台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv017
-CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
-HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
-影迷數位電影台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv011
-CatchPlay 電影台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv076
 緯來電影,https://stream1.freetv.fun/9e136afb1dc4118ba8ebb860706c3dd76e3991d9f9acf3a9abdeee8e1f0261f2.m3u8
-龍華電影台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn03
-龍華經典台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn21
-靖天電影台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv061
+美亞電影台,http://jaz9.my.to:9981/stream/channelid/564270250?profile=pass
+龍華洋片台,http://jaz9.my.to:9981/stream/channelid/176671436?profile=pass
+龍華電影台,http://jaz9.my.to:9981/stream/channelid/1310370429?profile=pass
+龍華經典台,http://jaz9.my.to:9981/stream/channelid/734203926?profile=pass
+靖天映畫,http://jaz9.my.to:9981/stream/channelid/1119909380?profile=pass
+靖天電影台,http://jaz9.my.to:9981/stream/channelid/1924470978?profile=pass
+ROCK Action,http://jaz9.my.to:9981/stream/channelid/441470324?profile=pass
+AMC電影台,http://jaz9.my.to:9981/stream/channelid/1246371269?profile=pass
+HITS,http://jaz9.my.to:9981/stream/channelid/1231037730?profile=pass
+CatchPlay電影,http://jaz9.my.to:9981/stream/channelid/201095230?profile=pass
+CinemaWorld,http://jaz9.my.to:9981/stream/channelid/1216414162?profile=pass
+壹電視電影台,http://jaz9.my.to:9981/stream/channelid/703627432?profile=pass
+影迷數位電影台FGM,http://jaz9.my.to:9981/stream/channelid/596560175?profile=pass
+MCE我的歐洲電影,http://jaz9.my.to:9981/stream/channelid/512333308?profile=pass
+
+
+
+紀實,#genre#
+HGTV居家樂活頻道,http://jaz9.my.to:9981/stream/channelid/986731478?profile=pass
+LOVE NATURE,http://jaz9.my.to:9981/stream/channelid/1407267167?profile=pass
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+Discovery亞洲,http://jaz9.my.to:9981/stream/channelid/1178871237?profile=pass
+Discovery科學,http://jaz9.my.to:9981/stream/channelid/1481966099?profile=pass
+DMAX,http://jaz9.my.to:9981/stream/channelid/558123812?profile=pass
+EVE,http://jaz9.my.to:9981/stream/channelid/1521463984?profile=pass
+歷史頻道,http://jaz9.my.to:9981/stream/channelid/297883675?profile=pass
+BBC Life style,http://jaz9.my.to:9981/stream/channelid/1332244917?profile=pass
+BBC Earth,http://jaz9.my.to:9981/stream/channelid/521637551?profile=pass
+視納華仁紀實台,http://jaz9.my.to:9981/stream/channelid/85293270?profile=pass
+影迷數位紀實台,http://jaz9.my.to:9981/stream/channelid/1863382271?profile=pass
