@@ -31,16 +31,27 @@
 龍華日韓台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn11
 靖洋戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv045
 靖洋卡通 Nice Bingo,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv057
+Dreamworks夢工廠,http://jaz9.my.to:9981/stream/channelid/1407092244?profile=pass
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS 精采台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv067
 八大精彩台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv034
 八大綜藝台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv039
+三立綜合台,http://jaz9.my.to:9981/stream/channelid/1293067157?profile=pass
+壹電視綜合台,http://jaz9.my.to:9981/stream/channelid/222777466?profile=pass
+新唐人亞太台,http://jaz9.my.to:9981/stream/channelid/753956123?profile=pass
 台視,rtmp://f13h.mine.nu/sat/tv071
 ELTA 娛樂台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv070
 ELTV 生活英語,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn20
 非凡商業台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
-亞洲旅遊台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn17
+幸福空間居家台,http://jaz9.my.to:9981/stream/channelid/1800392472?profile=pass
+滾動力rollor,http://jaz9.my.to:9981/stream/channelid/1757495297?profile=pass
+車迷TV,http://jaz9.my.to:9981/stream/channelid/244645018?profile=pass
+美食星球頻道,http://jaz9.my.to:9981/stream/channelid/1872112702?profile=pass
+亞洲美食頻道,http://jaz9.my.to:9981/stream/channelid/1612027957?profile=pass
+FoodNetwork美食台,http://jaz9.my.to:9981/stream/channelid/504793477?profile=pass
+亞洲旅遊台,http://jaz9.my.to:9981/stream/channelid/523044952?profile=pass
+EYE旅遊台,http://jaz9.my.to:9981/stream/channelid/2042201446?profile=pass
 GINX Esports TV,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 公視戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv042
 采昌影劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv049
