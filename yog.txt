@@ -1092,23 +1092,61 @@ Food Network HD,tvbus://7YWJps7kRumnuK47QXaVt9EruM3iNG6jABcxrSQ8tLn16nAk7v#tvbus
 美食星球,tvbus://8cmhZfKtVepZWVXx8FJdTEbk6XTDDmPRqkyyUsR4TUMYfFP7Vr#tvbus://7MXpDw7Pqc73i2aMqxiNE8eqPZtmAPa6d8cFrhCHEbpYy76jVY#tvbus://6L23b4xRzfJQzVk4dtucpi4g2PQAYFkgqSpCBmd6gjbWppkFCgybgdCm2sgxB#tvbus://6D8zcXwH6KbEKhb22nCsNM87wcQs49nvpmH6G1oaS3zqnUabwaXidTxXqiohe#tvbus://5hda1woJRAxDC7a7KMrE8hDATPz9T1DEs7e4AVxkm37RwrN5CehovJebHe4SN
 亞洲美食,tvbus://8hWqyBuR5qeHKqMqCJCHSNWJzWSkxUs5UtB7mojLJ6nqqZA9Lz#tvbus://88bLc1ZttjzGqrDumEdwq18aCWuiYtMdN4Pdwy117VQC1VQaGM#tvbus://5Wf7tKAk68QEA9V4Q3wWnnXoTbAeuWRSq4QjzFP3V8bfsTif9q2Wc1HEyGwH5#tvbus://6Po9Hkxc12iU2xi7XCqZBkBsJXiw4oxesr1Rr9yYvg1GYiczQfFZQGwsJPC3x#tvbus://5rX5G1eCQtAbsAVq6UAAx99mdextZFJPoEVL6ruPV7eh4tWnC1UjvzGb8ucwJ
 美食星球,tvbus://8cmhZfKtVepZWVXx8FJdTEbk6XTDDmPRqkyyUsR4TUMYfFP7Vr#tvbus://7MXpDw7Pqc73i2aMqxiNE8eqPZtmAPa6d8cFrhCHEbpYy76jVY#tvbus://6L23b4xRzfJQzVk4dtucpi4g2PQAYFkgqSpCBmd6gjbWppkFCgybgdCm2sgxB#tvbus://6D8zcXwH6KbEKhb22nCsNM87wcQs49nvpmH6G1oaS3zqnUabwaXidTxXqiohe#tvbus://5hda1woJRAxDC7a7KMrE8hDATPz9T1DEs7e4AVxkm37RwrN5CehovJebHe4SN
-CherryTv_543,#genre#
-松視3臺,tvbus://8V6ax5wximJSbDbRyRkLJ9uKsbZBtHzKkkHyheRYsCDQn1NkyZ#tvbus://8XsbtMB89TVonaQMEQGmRfDjjYgSHKjGpRhCfJp2Zx85gma3se#tvbus://8GFSfbeh9R8nSXj2QeKGziq6bkdhp1cQiF4tzuiYhG64fScPPk#tvbus://7YZ2B4dPCvHZrBib9Ku2XAUzBXDGSYM3GMFj33mF26KeGDUgJw#tvbus://7AqfZxzZiivqNSbCdpX5KDaWkNT14igZQab1iRcdYgqqL8auEN#tvbus://7JhRTQfAbTGq4EiLw2UMyGov8KkW5dDLMNLAmxQtsRDPeW9zwB#tvbus://5bWfo1ynFo4tmhThbh1FQoq8Jra16aZfxfb3GLmkLHp1Asm85oM58femW7eAw
-松視2臺,tvbus://7Fvko3o3z1zbb8r8EdRVft1FvBpGmsfJbvRY6f8DwF5veGQgoo#tvbus://7zDcYB6twwQVZi2E7eDH1Vs3izvHveD5MdZRDVB6NCkbUtRPPB#tvbus://7aa6tnS6acC5vDBbwAEQGSML1hueHKpr2Gp7D5XQMBY1U2ygTS#tvbus://8SnbhnzDXD8mGyQkMphxo4xGpC8Kp4uZtoLgiDijQU4xcUu2oi#tvbus://6uxnc9PU1jEvgGEbkjYsKgVPDgRCacVbTQtcRQrKPzNR5UAbRY#tvbus://7sJLmCdXZrXXfCkoFYuZ95vaZMSZQkFzSMpzGW8UdNCYfDvEUk#tvbus://5V4yiwguQWZdTVgDu7bsKmcsr7U7YNHy468Ne42kDtdp3kY3BJmRKxpSMRsYu
-松視1臺,tvbus://8QVYgbvvCmRA3JyAKsv451Qth5jdbRJWzmejsxrKShFtmRmwdw#tvbus://7VvSfBAFW3d1GZHizWvkQfsrQzNz9cujGtccHwgxEEQhtd7aYM#tvbus://7Bft8oDmVXvpnBuUsbd49oboHFqMtqZ3VZMiS9mQ5FUcBYa7GG#tvbus://72ttM3vKb1oxdwEKnxgL3KTCbeEeP6stiyygYTNduvieM5JfXg#tvbus://6zpnzu3sy73nBzqJwALsg7eAj8zvD4zjeANs9McFCW5UZUstDv#tvbus://7KFjoSXqboBxnvAq3gr8yGtT2bV4UZTQEfnFmV5UNMAByEyy2b#tvbus://6We3nbhZgwMKHCZpzXM2BQChyaw9cQNFwWQBEfQUAJcAkeDTgq6zxQShiRELo
-彩虹MOIVE,tvbus://8PRce5vS1sLBTQgucqGPq1p7o9hmgaiH6sa6Ui3FavQYkd79nG#tvbus://8kWjP8sTZmPRxrp1wB2XGzH7sU1vhtDhAeVDb4uQhWgQtkTZxY#tvbus://89wtQ69m98huFKKpyj6cVVJHrkUpvCCoKvoWnAD8BHSQ1eWXA9#tvbus://7Giq9PC7334Z5SgdwMHdqfY3FnDKgPyEhtEGu4pDuAd51pXmNf#tvbus://7z2fKnAvSQjsHhEWa5McyAxiUTAiU5GQtut3VaPF5q4enhs2Pe#tvbus://8NcFvipG7zE8Y6r4B3rMjowhCafQUfUR3eWCkErJ5i3yJpCgDu#tvbus://5UnVfpMTEDqPb4v4ooPzJPrzM6jQrqPq6wa7iSrzvrFFzcRsWn6KuWJEniXBL
-彩虹e臺,tvbus://886X3enkj3aVyfRZeCCPGh9tcy7RjYZX3YipwEEqW8B5N8HP9V#tvbus://7F2x4EsgCXvwYfqyfAvkMC8Qzqr5JtJLUsF6pCNhibib5NRCXz#tvbus://7phjBHmARawsNbdv829wnMhupdfzgt82TRboDXtTvNE9Lreizf#tvbus://6qvhoxy8fB1CgLS6RCBpLDpSr4vZGvtHCmVfi7nQc1MLpjeQqh#tvbus://7UfTUerdagvn1mPttMQntkhEC5VFcihPfioiN3x66A8FNgaZHt#tvbus://8LhcrP8k71gbNeBP3mj63yZmnkZPZPehFrntA2z2oYHP71ZocK#tvbus://5U9EF6CDqN51CZN5nM6pyNNGfsGxiQH1xG795PMpg5ktX8GC49j8SgJCbgc21
-K頻道,tvbus://8GwyVVSjAdtbXuVsv5ogcKS1jEZA9FahAvgYoDs4nf45E5zdJ8#tvbus://7pH9MVdqRHtWFaou2nDmjQQD8Zy9cHUwD9VJZ1ht6JzDVYsYJ4#tvbus://8XKn7ChgpzvRC8K7XpR1ye4pkJntkZmLpRABNiPALWKQG3Q8Tx#tvbus://7d7YkH7yvJmns3XNwrhgGtY3bw7pNQyGfdWsYb5bJih2Jw1gTa#tvbus://8SuQcAuyEpa1jnnB1YW1cPUv8e7t1uyecEdxEGQbCFtdfef7eR#tvbus://8a7fp8Hw2cWuJREJf9DUpmmiQcR3m5wP97VmkDQpt7kL4r4btW#tvbus://6YwzzeFPEcMZ1XKEbdZYt6TTnSUqq5CbPFVc3aHsjKGqTqFpicZFneA2R56Ya
-HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhEgtBaAq7egfgPFoXMTtiipDVoaZPCFZji7WBcAsv8H#tvbus://8h3QBLpXGK6RBkTSiaiiDFvfFwLZFsjsMDuDEXd7i5ZTddiiqF#tvbus://83rPBCgKg8NuMBzPDs3kPZb7zFS9yxjXJ8uYb2bpPXQ6bfPTA8#tvbus://7PUpYYhEXycXwbrV6bg2iWxePFjerV7e52p5jRGQSn3Ys1bip2#tvbus://8RG9hP2JMsf4sx5E3ZmGBUDQbtsAddYyUL9DsGETdivF7WMLdi#tvbus://6FCzqSCmRXm5vYrVJKEsanw2MNQe6GdGXDBxtUhCNfMT3pD4fVpTWfA2rYK4F
-香蕉臺,tvbus://8DCHFc63w71ST1AqD22poPoDkoBpy4swXb5jfun4pCYqMJcJPH#tvbus://7rTz1esvq94jL9YAEnfGU69ZQWpEEs6wPHyR1TQTkMYs4Fh6HD#tvbus://88NxJ5Kav3Fxc33VSXPh7bQRC6L4dNHz1VThsq7m3BzZaV4Zxz#tvbus://7AGoPuCv4u7nfoA7YAkyRV5msmU2n1hcQiLyCuQwoLchtPnTG5#tvbus://8aSJxZhzeZi9X1ui1qEqCcWpG15Vn2XeaoSD3aUxmKPYnNviSp#tvbus://8NeSPzk3JGLqMPLT9URMjf2FQLRK6UcS3fR9jnUVeq6xstYfBv#tvbus://6VaB8kdxjDxxUcYpg5SRwU6xdFXFpSCmFp1riAHxczseBiEaDCozL7RpDz9GK
-潘多拉粉紅,tvbus://7LPAET8LPKSb8B6PxhyNckv5XJd7bRKpyLRuKa4cXMQHUEshBj#tvbus://8bAfhBvMjS2TSZnAz1nQ1ScNyaVx7VRdpChqA43DciC35TvdDd#tvbus://8mDszDLpuZWe4FXjZ2hf6Mmqk8XPaBifQnQxS311eBmwGHi9Kh#tvbus://71WgrHdshUoAHySfkws3M7F2UmCNiV6nNvV6D2sWiHZe61WB4P#tvbus://7EGcfHRR971Ps4LVmR6u9AnLthm4jCjrTY7Wz2GYef8oqtCg8E#tvbus://8JjsawEKet8BRSza1hrwK63yCGifrhZsH1h7eweyVaa6ym1Cic#tvbus://5LwU9oBkAXyfSJC22UX2JjrwR3S14Yg45aQc473jshCnHTTm9A34qdBucAxGH
-潘多拉玩美,tvbus://7d5w2TrSYS6Cwo4T35WoQem6j4uSXZCdLbf1gfHv2Katv9eb4s#tvbus://759nxecyVy3REKt6UGoCMrMkNdUZg3pjrkTrD4nVMdsNDCkBTT#tvbus://6y5cF8zjvpkcDgM7CdGyEpNjANx4jxyNnaxzbcu3gCxp3pWEM9#tvbus://8aQWUWTaW8A4Vugnasn1QJhAAZXz8Uy5X1DMpCenqypj8G4CKE#tvbus://7hssmowvCdsMSqdw7CxceFwzVhAhfjhSViJbLurnLHUhPgdtLp#tvbus://8eJ9uaq2mp8ixtrJqw1i9n9ytisRiWBU7iW5ZY7cKKu2gRwZiT#tvbus://5d2iaF7JJUWYMpbRBuvZMTGAGkcVYpUBUnFv3AADgVp65QA8gpiCe6A5a1htL
-18 ADULT 7,tvbus://8iZJUbYEJBu7ZNBKEnsaeag4Lc6jJQtsrPpjPSxcKjM32Z2Yex#tvbus://6x36bQBdjUwUyjS3WJ8hi9iXnpA2ZzAQYMAPPj96Q4s6RtvgYP#tvbus://7m8ZN2PirtdmB2ZiFXi5KCQwGPqoHwmVY6b7UAab1snoxtDjNB#tvbus://8NWkoDWsHon6EV8Ag4p65XivKAJZoKpHGcg2y4EZDPjPfRduyW#tvbus://8AhmdrqmEMa57jfDCFsd1oexPbjHH5ipocc2N7N7cnoKEt2uQU#tvbus://7a53QRi1iDj1aNh6cdD4sfLDwrVkKFFu89rXbFRXg2xUYveym8#tvbus://5vmwWUdQhc7pq5dxe1LKKmizB1k68AyaJZjbQGCqsMZkMjNnw4WJ4Vfq31HB4
-18 ADULT 6,tvbus://8CWh3LkPS2yyT4MUwhXDmRxD5bRwCiJE5gKU8cPPBJnWWhvTMs#tvbus://7So7hnAFa8RQX7Prk6Z2fRqoWa88zVPqzn8PbCtJsngYyuNvh6#tvbus://7FoBUztMdgPSXxfbi6Sjqgy3xBXmczBMEARXTmX93uagusrEEY#tvbus://8MXVKWr1FQNvPLP3mQuXobs2iQhZwwmncbbQNkDJrMbYoEL8d5#tvbus://72dgeuxm3ptRTGGAw5Vgf7jCgGTw9BL3Sf2UvfjDCkKGLJAiST#tvbus://7qLBLVuQ5V8i4Rw6jBHnX2ot12GRLQxYdnparnK2YEMMsQZfba#tvbus://6LGyQFQuGLxP7uP28tMSLeF2MxjPoUXNB8dLAVWTk4Ak63S985m7btzJVBZXb
-18 ADULT 5,tvbus://7mNf75nkcyCRAVnmxM8ear6xhWmtRM94quxG6363cgYRR35oGh#tvbus://8fcvFxZzarRRWe9PNdB78MoZDY2UcAsPXPbBsWCckbByHttJaE#tvbus://7bGxujtPq62FYUVzT9eGSFyMb9638EBxaoSM4bou7bYnwme7XC#tvbus://7m5soJvJX3x5ifvPEYKuDZFMGHj95824SqcBhSxpKhi4nf9JB4#tvbus://7XJrUYjHmw75AttgvraftJ25gAvzQ9DhBHNNnrjmM6YPekyVP2#tvbus://8Vyjp2zzDxYp777V5acKtBxcs1A7D3FoEx2DB6D6PJWR2aa15L#tvbus://5tpsin8vmm8zXBMSnWDYGghDQgUqFnpXiakuHGCtTz1D3qTLhENuXmpDVFXkn
-18 ADULT 4,tvbus://8AsN1XFgZnwQy7P2jJxMrmTjmZxx57g3ujjmmSPDoAkHThn7ej#tvbus://7yGjPYDc8hLVV6kiPobgMjXm6UWNUTDN2BzTi7crxr2qvyVb4f#tvbus://7b9r3kJTLxTfD4oGCtfBEJK8f2KHRv6qM5fvYZasLQpsfxjuuJ#tvbus://7R726bcuPocYJN2UDPYjNR3VuCQDjAsgVpKxf8wVqp6YyP4gLS#tvbus://8Ec1it3SnUFbjqE8p9Xk8K6gYXNhmCmbxBuCR5Sn7QbiLwg33P#tvbus://7GfFpyTntZESTtV4AJbzofWZPjdmid7bS1ZTNsYiFMKkz6nTFa#tvbus://6GNfZzuwtjPT9NPvoWRnHd3Jtspgs5qmSLK4kVbNgdbJUnejwokrZSjND6Tvg
-18 ADULT 3,tvbus://7N9JJtRoH94woNz3YJrUS8YqVqnTskDbFjdSgBHXNUd6fWbx8A#tvbus://7KVkUQyeZLiSAJhTnSH8EcXegXR4EACPVkGrS9XtgFEtQCBRat#tvbus://8HmjCNXY555W9SQZaHSyy2AfdiFrU2R6ZWEkkCXPPmdEYWpG4M#tvbus://8dEy73iP74m184Sq7tvSYNmFsNyEhqo1fdoBYjdovUnUaHkTaW#tvbus://7GGFu5daptNS1UfF7DP3aKw7kZdiaDPpKnYkxrqGUDcB3VS2GR#tvbus://8TFz1Cdrfihhba9d1KCi4t1qBUyDDfq5fQWVewYBX3gWzYobaj#tvbus://6MunL3eZZXmNbv9iV3DccfDsGNtHPeY83m8arnM3ZgTTsUagg1fm657qNYGVZ
-18 ADULT 2,tvbus://7eEKJY5RzJsHCcajJ9b8ay7kPgPUqLi3Hzg3N9g4ULQcXGJHnp#tvbus://8SEnzmmcrTrT7m8VXErbTp77X67e5k8KQnc9SK9vLHboUsZC8B#tvbus://7NQsRX68nZtLsYn6BgCzU11cBDnz7kPYdkF2xKknLpdcWRkggo#tvbus://7WMZxMyfjRitmBXYkF6PhUPLUNNYHtEuQDjJBK5PmdWdipZpDi#tvbus://8TmKsN62VEg1rayTS5Mm4A3WwBLED4TZ7sfhKadeKgKTKtB4tp#tvbus://86qwAxhP64mjP9zBG7fLJtpf2ZAJbdffXq1B7LU7MKoag3VwbU#tvbus://69qaqnP9x8vAqQJQH5WsDQx6R2uci7dkXvVeYjndgBF4oQkTvczZ7i8r3Rin3
-18 ADULT 10,tvbus://87T8HQD1NpY5fWwt73PwY36eqdoL9uDLLNN9pJ2UFLnMoRciQB#tvbus://7y8dURAYKJP9z6HEpYWhxLjJiEgMKcbbRZ1ykLjvt5Jq9Sj7sN#tvbus://7Y64NToifRU7vUWGgYSPdPytbRSmuN2wY8RE9Ar6Wxhdg85Mk7#tvbus://8iX1W5zCjG3XyFirSkQCUtpYLHtn8ByVE72frTMiD9JSomcKdH#tvbus://7qztEyuEAx6Bw9dwbzdHQG5FkP6b8rBk74Dhg9quyNzx3TcXFL#tvbus://8RXJm5EzPJht2EbZA8ZEaHU3UMshJLLP2c75WjLGPh3eL3Ff26#tvbus://5u6tz6mWigrNmUGjA9y4deRpkSK3sfAo1LB7ZnfBK6TnkbBQzQEHjwZZVBVuS
-18 ADULT 9,tvbus://7iS15LS31ADWbYWAWyWf1jUWaPVsFyckm5wMwwfAKj4HM5hRYV#tvbus://6qaLjzmFDK2c6MUWtQFheGYbPo6T18VC9a6JdxaipYXtHgszpZ#tvbus://8ip8KdVSkKFgKUutLdXgqwqxbcqwuMrdPuzXQbVDtc6yax9Vjh#tvbus://8L8EFftX8hqxKKbXnD6kPtWLCuWwVScEemc5gyMp7zJhVkkZXm#tvbus://7dmGyUYLHkN2BbvwaW6wtBCtz2VndGn2pUULvgUdKD4iUUrQmq#tvbus://8cGyBeyMAEcvJF1CPru5iny59VXcSr7Vc3qEjpwY3s4wHEwzdd#tvbus://6ZYiUkDiwDiHgicmSE3Z1MUs7FGrtAtXExn73vHzcCgDGNs4gYbpWWcr2YQPQ
-18 ADULT 8,tvbus://8bpFLdwsD1eK42EDEvZW7t5YUGiyTp2ZAJZABBHxCiqq19Ym3J#tvbus://7Rt2EWKCBcgjpLFXy7VF8nGr9ddzo23Nt7vJy1Sz9MzaHAS2Z5#tvbus://8ZfAHnWQxsGfB4q3LtQN91VcojXknC1ey67uqUT33yni2JBEuF#tvbus://6sRVdev89rm1YokPzjfXS4aZsuattrPANNy43wm7r9xyDcyuZF#tvbus://7CLNSXSaLCHb29MhSKDUHCAWYivVAG5wwg9pZXPydsbBLNLi36#tvbus://8Q3Y6iACBxdY3eex43LSjBJPTSgBUWFweX7adqUE9cQDedtg4T#tvbus://5RRXmAQ9SJzx684gvqPosvd3SNDsjbZcTLH3sanisSnxWNQVRbh7y94LNurpg</body></html>
+
+
+電台,#genre#
+923亞太電台,https://n04a-eu.rcs.revma.com/kydend74hv8uv?rj-ttl=5&rj-tok=AAABk3-PFmIANQOl8U4dGJCCgQ
+927亞洲電台,https://n02a-eu.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABk3-DGv0AIdOP5OI3uapVnA
+AI台粵廣播電台,https://n27a-eu.rcs.revma.com/h4ta80hbqwuvv?rj-ttl=5&rj-tok=AAABk3-xktMA5rXeWEpOIWNGvQ
+BaoDaoRadio寶島新聲FM98.5,http://125.227.87.206:8000/FM98.5
+BaoDaoRadio大千電台FM99.1,http://125.227.87.206:8000/FM99.1
+BeamFM-AdultHitsTaiwan,https://ice1.streeemer.com:8020/radio.aac
+BeamFM-Taiwan,https://ice1.streeemer.com:8030/radio.aac
+BigBigMIX（TW）,https://play.gojoy.org/audio/stream
+FM94.3音樂伸展台,https://n21a-eu.rcs.revma.com/pet2dvug1bkvv/33_c0sv6gbkebrj02/playlist.m3u8?rj-ttl=5&rj-tok=AAABk3-WWG8A-pyunz3vCe6Uzg
+iCRT,https://n10a-eu.rcs.revma.com/nkdfurztxp3vv?rj-tok=AAABk39_mbEALVg2VBtyNfsMOw&rj-ttl=5
+IC之音竹科廣播FM97.5,https://n40a-eu.rcs.revma.com/7mnq8rt7k5zuv?rj-ttl=5&rj-tok=AAABk3-Ld6AAjJ_Jh9QKGd5JOw
+JazzRadio當代爵士音樂,https://ec3.yesstreaming.net:3455/stream
+Raggakings雷鬼音樂網路電台,https://raggakings.radio:8443/stream.ogg
+RFITradicionalChinese華語,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+TaiwanLoungeRadio,https://azuracast.conceptradio.fr/radio/8030/stream.mp3
+WQXR-FM紐約愛樂電台,https://stream.wqxr.org/wqxr
+北台灣之聲廣播電台FM107.1,http://211.72.65.62:8080/
+城市廣播網FM92.9城市廣播,http://fm929.cityfm.tw:8080/929.mp3
+城市廣播網城市廣播90.1FM,http://fm901.cityfm.tw:8080/901.mp3
+城市廣播網台南知音97.1FM,http://fm971.cityfm.tw:8080/971.mp3
+大樹下廣播電台,http://60.250.148.112:8000/live
+都會聲音廣播電台FM99.7,http://118.163.195.112:8000/FM99.7
+飛碟電台FM92.1,https://n07a-eu.rcs.revma.com/em90w4aeewzuv?rj-tok=AAABk3-AGDYATFKkYVFORqXZxA&rj-ttl=5
+飛揚調頻FM89.5,https://n15a-eu.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABk39-8RoAvTiZv-wT9GoQjw
+噶瑪蘭廣播電台97.9FM,http://61.220.209.152:8081/
+鋼琴獨奏網路音樂電台,http://pianosolo.streamguys.net/live
+古典音樂台ClassicalFM97.7,http://onair.family977.com.tw:8000/live.mp3
+國立教育廣播電臺高雄分臺,https://cast.ner.gov.tw/5
+國立教育廣播電臺臺北總臺AM臺,https://cast.ner.gov.tw/2
+國立教育廣播電臺臺東分臺FM-1,https://cast.ner.gov.tw/6
+好事聯播網最佳電台FM98.9,https://n25a-eu.rcs.revma.com/fkdywbc59duvv?rj-ttl=5&rj-tok=AAABk399dhMAtboFXdTYLFGnLA
+好事聯播網BestRadioFM90.3,https://n29a-eu.rcs.revma.com/zr7xzec59duvv?rj-ttl=5&rj-tok=AAABk3-CEtIA_qBECwgi2j2g5A
+好事聯播網港都983BestRadioFM98.3,https://n25a-eu.rcs.revma.com/q2m07dc59duvv?rj-ttl=5&rj-tok=AAABk3-A_SkAMRcl-WUpm3S1eQ
+花園廣播電台FM88.7,http://43.254.16.40:8000/CH.FM88.7
+歡喜之聲105.5FM,http://59.125.41.65:8081/
+環球廣播電台107.1FM,http://60.248.53.115:8081/
+佳音聖樂網CCMFM90.9,https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8
+九八新聞台News98FM98.1,https://n10a-eu.rcs.revma.com/pntx1639ntzuv.m4a?rj-ttl=5&1672237775=&rj-tok=AAABk39_Qs8ATL2nuw2mnNT8Gg
+領袖電台FM93.7,https://n18a-eu.rcs.revma.com/hpeqh9mkc6hvv?rj-ttl=5&rj-tok=AAABk3-GtuMA4OcT0R8qd7FGbQ
+農鄉廣播電台FM106.3,http://taiwan-radio.tw:8000/YL.FM106.3
+屏東之聲廣播電台92.5,http://59.120.255.169:8081/
+全國廣播MRadio,http://n22a-eu.rcs.revma.com/044q61ha7a0uv?rj-ttl=5&rj-tok=AAABk3-Gc7sAw1tAzzhnf8RQ9Q
+神農廣播股份有限公司,https://n37a-eu.rcs.revma.com/uyaghqmdm3hvv?rj-ttl=5&rj-tok=AAABk3-wupUAKO3pgbDtwOBeSA
+世新廣播電台SHRS88.1FM,https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8
+世新廣播電台SHRS729AM,https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8
+臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+臺北廣播電臺HoHiYan原住民專屬頻道AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+下港之聲FM90.5,http://59.120.255.155:8081/
+新竹之音廣播電台FM97.9MHz,http://118.163.195.112:8000/FM97.9
+漁業廣播電臺,https://n03a-eu.rcs.revma.com/mk0c5vq122hvv?rj-ttl=5&rj-tok=AAABk3-3AsEAzXxeBxqWmufDMg
+正聲廣播台北調頻台(CSBCFMRadio),https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w1468129418.m3u8
+正聲廣播網路綜合台(CSBCLife),https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+中廣流行網Ilikeradio,https://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv?rj-ttl=5&rj-tok=AAABk398s8YAWSyQ-7IwpQVfKA
+中廣新聞網BCCNewsRadio,https://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
+中廣音樂網iRadioFM96.3,https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
