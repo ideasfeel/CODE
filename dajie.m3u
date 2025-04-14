@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1 group-title="📺台灣電視,#genre#",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="📺台灣電視,#genre#",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="📺台灣電視,#genre#",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="📺台灣電視,#genre#",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="📺台灣電視,#genre#",TVBS新聞
+rtmp://f13h.mine.nu/sat/tv551
+#EXTINF:-1 group-title="📺台灣電視,#genre#",TVBS歡樂
+rtmp://f13h.mine.nu/sat/tv421
+#EXTINF:-1 group-title="📺台灣電視,#genre#",東森財經新聞
+rtmp://f13h.mine.nu/sat/tv571
+#EXTINF:-1 group-title="📺台灣電視,#genre#",東森超視
+rtmp://f13h.mine.nu/sat/tv521
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="📺台灣電視,#genre#",ELEVEN1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="📺台灣電視,#genre#",ELEVEN2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="📺台灣電視,#genre#",MOMO綜合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="📺台灣電視,#genre#",ELTA體育2
+rtmp://f13h.mine.nu/sat/md011
+#EXTINF:-1 group-title="📺台灣電視,#genre#",ELEVEN2
+rtmp://f13h.mine.nu/sat/md021
+#EXTINF:-1 group-title="📺台灣電視,#genre#",博斯網球
+rtmp://f13h.mine.nu/sat/md031
+#EXTINF:-1 group-title="📺台灣電視,#genre#",ELTA體育3
+rtmp://f13h.mine.nu/sat/md041
+#EXTINF:-1 group-title="📺台灣電視,#genre#",ELTA體育1
+rtmp://f13h.mine.nu/sat/md051
+#EXTINF:-1 group-title="📺台灣電視,#genre#",CINEMAX
+http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",CNBC
+http://125.227.210.55:8152/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",Discovery
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",中視
+rtmp://220.130.201.73/sat/tv091
+#EXTINF:-1 group-title="📺台灣電視,#genre#",華視
+rtmp://220.130.201.73/sat/tv111
+#EXTINF:-1 group-title="📺台灣電視,#genre#",台視
+rtmp://220.130.201.73/sat/tv071
+#EXTINF:-1 group-title="📺台灣電視,#genre#",民視
+rtmp://220.130.201.73/sat/tv051
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來體育
+https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來體育
+rtmp://220.130.201.73/sat/tv721
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來育樂
+rtmp://220.130.201.73/sat/tv701
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來日本
+rtmp://220.130.201.73/sat/tv771
+#EXTINF:-1 group-title="📺台灣電視,#genre#",東森超視
+rtmp://220.130.201.73/sat/tv331
+#EXTINF:-1 group-title="📺台灣電視,#genre#",八大戲劇
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",AMC電影臺
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",鳳凰資訊
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",49號
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",八大綜合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來體育臺
+http://125.227.210.55:8155/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",三立臺灣臺
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",三立新聞
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",BBC new
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",CNN new
+http://125.227.210.55:8166/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",JTV
+http://125.227.210.55:8169/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",TVBS新聞臺
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",食尚玩家
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1 group-title="📺台灣電視,#genre#",TVBS HD
+http://125.227.210.55:8188/VideoInput/play.ts
+
