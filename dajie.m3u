@@ -1,110 +1,578 @@
-#EXTM3U
-#EXTINF:-1 group-title="📺台灣電視,#genre#",民視
-rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 group-title="📺台灣電視,#genre#",台視
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 group-title="📺台灣電視,#genre#",中視
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 group-title="📺台灣電視,#genre#",華視
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 group-title="📺台灣電視,#genre#",TVBS新聞
-rtmp://f13h.mine.nu/sat/tv551
-#EXTINF:-1 group-title="📺台灣電視,#genre#",TVBS歡樂
-rtmp://f13h.mine.nu/sat/tv421
-#EXTINF:-1 group-title="📺台灣電視,#genre#",東森財經新聞
-rtmp://f13h.mine.nu/sat/tv571
-#EXTINF:-1 group-title="📺台灣電視,#genre#",東森超視
-rtmp://f13h.mine.nu/sat/tv521
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來育樂
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來體育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 group-title="📺台灣電視,#genre#",ELEVEN1
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 group-title="📺台灣電視,#genre#",ELEVEN2
-rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="📺台灣電視,#genre#",MOMO綜合
-rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 group-title="📺台灣電視,#genre#",ELTA體育2
-rtmp://f13h.mine.nu/sat/md011
-#EXTINF:-1 group-title="📺台灣電視,#genre#",ELEVEN2
-rtmp://f13h.mine.nu/sat/md021
-#EXTINF:-1 group-title="📺台灣電視,#genre#",博斯網球
-rtmp://f13h.mine.nu/sat/md031
-#EXTINF:-1 group-title="📺台灣電視,#genre#",ELTA體育3
-rtmp://f13h.mine.nu/sat/md041
-#EXTINF:-1 group-title="📺台灣電視,#genre#",ELTA體育1
-rtmp://f13h.mine.nu/sat/md051
-#EXTINF:-1 group-title="📺台灣電視,#genre#",CINEMAX
-http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",CNBC
-http://125.227.210.55:8152/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",HBO HD
-http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",Discovery
-http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",中視
-rtmp://220.130.201.73/sat/tv091
-#EXTINF:-1 group-title="📺台灣電視,#genre#",華視
-rtmp://220.130.201.73/sat/tv111
-#EXTINF:-1 group-title="📺台灣電視,#genre#",台視
-rtmp://220.130.201.73/sat/tv071
-#EXTINF:-1 group-title="📺台灣電視,#genre#",民視
-rtmp://220.130.201.73/sat/tv051
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來體育
-https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來體育
-rtmp://220.130.201.73/sat/tv721
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來育樂
-rtmp://220.130.201.73/sat/tv701
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來日本
-rtmp://220.130.201.73/sat/tv771
-#EXTINF:-1 group-title="📺台灣電視,#genre#",東森超視
-rtmp://220.130.201.73/sat/tv331
-#EXTINF:-1 group-title="📺台灣電視,#genre#",八大戲劇
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",三立戲劇
-http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",中華小當家
-http://61.221.215.25:8800/hls/40/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",AMC電影臺
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",鳳凰資訊
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來精彩
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",49號
-http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",探索亞洲
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",八大第一
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",動物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",八大綜合
-http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 group-title="📺台灣電視,#genre#",緯來體育臺
-http://125.227.210.55:8155/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",三立臺灣臺
-http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",Bloomberg
-http://125.227.210.55:8161/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",三立新聞
-http://125.227.210.55:8162/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",BBC new
-http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",CNN new
-http://125.227.210.55:8166/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",CN卡通
-http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",JTV
-http://125.227.210.55:8169/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",TVBS新聞臺
-http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",食尚玩家
-http://125.227.210.55:8187/VideoInput/play.ts
-#EXTINF:-1 group-title="📺台灣電視,#genre#",TVBS HD
-http://125.227.210.55:8188/VideoInput/play.ts
-
+臺灣 Taiwan,#genre#
+AXN,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
+CINEMAX,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn
+EYE戲劇,https://pixman.mytvsuper.com.mp/Smart.php?id=eyetvxiju_twn
+EYE旅遊,https://pixman.mytvsuper.com.mp/Smart.php?id=eyetvtravel_twn
+HBO,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn
+HBO Family,https://pixman.mytvsuper.com.mp/Smart.php?id=fyi_twn
+好萊塢電影台,https://pixman.mytvsuper.com.mp/Smart.php?id=hollywoodmovies_twn
+MTV Live,https://pixman.mytvsuper.com.mp/Smart.php?id=mtvhd_twn
+TLC旅遊生活,https://pixman.mytvsuper.com.mp/Smart.php?id=tlc_twn
+東森新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
+TVBS HD,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs
+TVBS新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
+TVBS歡樂台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbshuanle_twn
+三立台灣台,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlitaiwan
+三立戲劇台,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlixiju_twn
+三立綜合台,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlizhonghe
+中天亞洲台,https://pixman.mytvsuper.com.mp/Smart.php?id=ctiasia_twn
+中天娱樂,https://pixman.mytvsuper.com.mp/Smart.php?id=ctient
+中天新聞HD,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+中天綜合,https://pixman.mytvsuper.com.mp/Smart.php?id=ctizhonghe
+亞洲旅遊台,https://pixman.mytvsuper.com.mp/Smart.php?id=asiatravel_twn
+亞洲美食,https://pixman.mytvsuper.com.mp/Smart.php?id=afc_twn
+八大戲劇,https://pixman.mytvsuper.com.mp/Smart.php?id=badadrama
+八大第一,https://pixman.mytvsuper.com.mp/Smart.php?id=badafirst
+八大綜合,https://pixman.mytvsuper.com.mp/Smart.php?id=badazhonghe
+公視,https://pixman.mytvsuper.com.mp/Smart.php?id=ctv_taiwan
+民視,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvhd_taiwan
+民視第一台,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuajingdian_twn
+民視台灣台,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvtaiwan_twn
+民視新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvnew_taiwan
+台視,https://pixman.mytvsuper.com.mp/Smart.php?id=ttv_taiwan	
+台視新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
+中視,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshihd_twn
+中視新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
+中視經典,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshi_twn
+華視,https://pixman.mytvsuper.com.mp/Smart.php?id=ctshd_twn
+華藝綜合,https://pixman.mytvsuper.com.mp/Smart.php?id=weishichinese_twn
+大愛一台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai_twn
+寰宇新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
+寰宇財經台,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyutaiwan_twn
+年代新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=niandainews_twn
+愛爾達影劇,https://pixman.mytvsuper.com.mp/Smart.php?id=eltayingju_twn
+愛爾達體育 1,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport_twn
+愛爾達體育 2,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport2_twn
+愛爾達體育 3,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport3_twn
+ELEVEN 1,https://pixman.mytvsuper.com.mp/Smart.php?id=golfchannel_twn
+博斯網球,https://pixman.mytvsuper.com.mp/Smart.php?id=bositennis_twn
+博斯運動1,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport1_twn
+博斯運動2,https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport2_twn
+博斯高球1,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf1_twn
+博斯高球2,https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf2_twn
+探索亞洲,https://pixman.mytvsuper.com.mp/Smart.php?id=discoverytwn_twn
+探索動力,https://pixman.mytvsuper.com.mp/Smart.php?id=discoveryturbo_twn
+國家地理,https://pixman.mytvsuper.com.mp/Smart.php?id=natgeohd_twn
+野生動物,https://pixman.mytvsuper.com.mp/Smart.php?id=natgeowild_twn
+動物星球,https://pixman.mytvsuper.com.mp/Smart.php?id=animalplanet_twn
+時尚,https://pixman.mytvsuper.com.mp/Smart.php?id=fashiontv_twn
+Discovery Asia,https://pixman.mytvsuper.com.mp/Smart.php?id=discoverytwn_twn
+Discovery HD,https://pixman.mytvsuper.com.mp/Smart.php?id=discoveryhd_twn
+東森戲劇,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvdrama
+東森洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvwestern
+東森綜合,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvzhonghe
+東森財經新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvcaijing_twn
+東森電影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
+緯來日本台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandjapan
+緯來體育台,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport
+美亞電影,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+BBC World News,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcnews_twn
+Bloomberg News,https://pixman.mytvsuper.com.mp/Smart.php?id=bloomberg_twn
+Fox News,https://pixman.mytvsuper.com.mp/Smart.php?id=foxnews_twn
+阿里郎,https://pixman.mytvsuper.com.mp/Smart.php?id=arirang_twn
+CN卡通,https://pixman.mytvsuper.com.mp/Smart.php?id=momo1_twn
+靖天卡通台,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtiancartoon_twn
+靖天國際台,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtianintl_twn
+非凡新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=feifannews_twn
+龍祥時代,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
+龍華偶像,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaidol_twn
+龍華戲劇,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaxiju_twn
+龍華洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
+龍華經典,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuajingdian_twn
+龍華電影,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie
+馬來西亞 Malaysia,#genre#
+TV1,https://pixman.mytvsuper.com.mp/Smart.php?id=TV1
+TV1(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=TV1_backup
+TV2,https://pixman.mytvsuper.com.mp/Smart.php?id=TV2
+TV3,https://pixman.mytvsuper.com.mp/Smart.php?id=TV3
+TV3(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=tv3_twn
+NTV7,https://pixman.mytvsuper.com.mp/Smart.php?id=NTV7
+TV8,https://pixman.mytvsuper.com.mp/Smart.php?id=TV8
+TV9,https://pixman.mytvsuper.com.mp/Smart.php?id=TV9
+Warna,https://pixman.mytvsuper.com.mp/Smart.php?id=Warna-O
+Warna(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Warna
+Ria,https://pixman.mytvsuper.com.mp/Smart.php?id=Ria-0
+Ria(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Ria49
+Ria-3,https://pixman.mytvsuper.com.mp/Smart.php?id=Ria_quanjia
+Al-Hijrah,https://pixman.mytvsuper.com.mp/Smart.php?id=Alhijrah
+Al-Hijrah(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Alhijrah_backup
+Awani,https://pixman.mytvsuper.com.mp/Smart.php?id=Awani
+Bernama,https://pixman.mytvsuper.com.mp/Smart.php?id=Bernama
+Prima,https://pixman.mytvsuper.com.mp/Smart.php?id=Prima-0
+Prima(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Prima49
+Ceria,https://pixman.mytvsuper.com.mp/Smart.php?id=Ceria
+Astro MTV,https://pixman.mytvsuper.com.mp/Smart.php?id=AstroMTV
+Mecca Live HD,https://pixman.mytvsuper.com.mp/Smart.php?id=quran_mido
+Madinah HD,https://pixman.mytvsuper.com.mp/Smart.php?id=sunnah_mido
+Oasis,https://pixman.mytvsuper.com.mp/Smart.php?id=Oasis
+HBO HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbo
+HBO Signature,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbosignature
+HBO Hits,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbohits
+NatGeo Wild HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Natgeowild
+Cartoon Network,https://pixman.mytvsuper.com.mp/Smart.php?id=Cn
+Nickelodeon,https://pixman.mytvsuper.com.mp/Smart.php?id=Nickelodeon
+Nick Jr,https://pixman.mytvsuper.com.mp/Smart.php?id=Nickjr
+Citra,https://pixman.mytvsuper.com.mp/Smart.php?id=Citra
+Sensasi,https://pixman.mytvsuper.com.mp/Smart.php?id=Sensasi
+Aura,https://pixman.mytvsuper.com.mp/Smart.php?id=Aura
+Rania,https://pixman.mytvsuper.com.mp/Smart.php?id=Rania
+Boo,https://pixman.mytvsuper.com.mp/Smart.php?id=Boo
+Awesome TV,https://pixman.mytvsuper.com.mp/Smart.php?id=Awesome_mega
+Sony HD,https://pixman.mytvsuper.com.mp/Smart.php?id=SetOne
+KBS World,https://pixman.mytvsuper.com.mp/Smart.php?id=KBS
+TvN,https://pixman.mytvsuper.com.mp/Smart.php?id=TVN
+Astro Premier,https://pixman.mytvsuper.com.mp/Smart.php?id=Astropremier
+AEC,https://pixman.mytvsuper.com.mp/Smart.php?id=AEC
+華麗台 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Wlt
+歡喜台 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Huahee
+歡喜台(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Huahee_backup
+Astro QJ,https://pixman.mytvsuper.com.mp/Smart.php?id=Quanjia
+TVB Jade,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbjade
+TVBS Asia,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbasia
+TVB Entertainment,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbentertainment
+TVB Classic,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbclassic
+AOD,https://pixman.mytvsuper.com.mp/Smart.php?id=AodHD
+One,https://pixman.mytvsuper.com.mp/Smart.php?id=One_mega
+TVB 星河台,https://pixman.mytvsuper.com.mp/Smart.php?id=Xinhe
+愛奇藝,https://pixman.mytvsuper.com.mp/Smart.php?id=Qiyi
+Animal Planet (Eng),https://pixman.mytvsuper.com.mp/Smart.php?id=AnimalPlanet
+tvN Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvnmovie
+CNN(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=cnn_twn
+Celestial Classic,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial2
+CNBC,https://pixman.mytvsuper.com.mp/Smart.php?id=cnbc_twn
+RTM Sports HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Rtmsport
+TLC,https://pixman.mytvsuper.com.mp/Smart.php?id=Tlc
+CNA,https://pixman.mytvsuper.com.mp/Smart.php?id=cna
+AFC 亞洲旅遊台,https://pixman.mytvsuper.com.mp/Smart.php?id=asiatravel_twn
+BBC World News,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcnews_twn
+Foodnetwork Hd,https://pixman.mytvsuper.com.mp/Smart.php?id=Foodnetwork_mega
+HGTV,https://pixman.mytvsuper.com.mp/Smart.php?id=HGTV
+Arena,https://pixman.mytvsuper.com.mp/Smart.php?id=Arena
+Goshop,https://pixman.mytvsuper.com.mp/Smart.php?id=Goshop
+Celestial Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial_mega
+Arena 2,https://pixman.mytvsuper.com.mp/Smart.php?id=Arena2
+Axn HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Axn
+Paramount Network,https://pixman.mytvsuper.com.mp/Smart.php?id=Paramountnetwork
+BolaArena 1,https://pixman.mytvsuper.com.mp/Smart.php?id=Bolaarena1
+Astrol Kplus,https://pixman.mytvsuper.com.mp/Smart.php?id=Kplus
+Rock Actions,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockaction
+Bloomberg News,https://pixman.mytvsuper.com.mp/Smart.php?id=bloomberg_twn
+Al-Jazeera,https://pixman.mytvsuper.com.mp/Smart.php?id=aljazeera_twn
+Rock Entertainment,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockentertain
+Showcase,https://pixman.mytvsuper.com.mp/Smart.php?id=Showcase_mega
+BolaArena 2,https://pixman.mytvsuper.com.mp/Smart.php?id=Bolaarena2
+新加坡 Singapore,#genre#
+Channel 5,https://pixman.mytvsuper.com.mp/Smart.php?id=Channel5HD
+Channel 5(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Ch5_mega
+Channel 8,https://pixman.mytvsuper.com.mp/Smart.php?id=Channel8HD
+Channel 8(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Ch8_mega
+Suria,https://pixman.mytvsuper.com.mp/Smart.php?id=Suria
+Suria(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Suria_backup
+Channel U,https://pixman.mytvsuper.com.mp/Smart.php?id=ChannelU
+Channel U(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=ChU_mega
+Vasantham,https://pixman.mytvsuper.com.mp/Smart.php?id=Vasantham
+Vasantham(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=Vasantham_mega
+CNA,https://pixman.mytvsuper.com.mp/Smart.php?id=cna
+CNA(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=cna_twn
+印尼 Indonesia,#genre#
+TVRI National,https://pixman.mytvsuper.com.mp/Smart.php?id=TVRI
+RCTI,https://pixman.mytvsuper.com.mp/Smart.php?id=Rcti
+Kompass TV,https://pixman.mytvsuper.com.mp/Smart.php?id=Kompass
+Berita Satu,https://pixman.mytvsuper.com.mp/Smart.php?id=BeritaSatu_eko
+Indosiar HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Indosiar
+AnTV,https://pixman.mytvsuper.com.mp/Smart.php?id=Antv
+MNC TV,https://pixman.mytvsuper.com.mp/Smart.php?id=Mnctv
+Trans 7,https://pixman.mytvsuper.com.mp/Smart.php?id=Trans7_eko
+Transtv,https://pixman.mytvsuper.com.mp/Smart.php?id=Transtv
+JTV,https://pixman.mytvsuper.com.mp/Smart.php?id=JTV_eko
+Metro TV,https://pixman.mytvsuper.com.mp/Smart.php?id=metrotv_eko
+Cinemax,https://pixman.mytvsuper.com.mp/Smart.php?id=Cinemax
+SCTV,https://pixman.mytvsuper.com.mp/Smart.php?id=SCTV
+Tvone,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvone
+TVMU,https://pixman.mytvsuper.com.mp/Smart.php?id=TVMU_eko
+GTV,https://pixman.mytvsuper.com.mp/Smart.php?id=Gtv
+RTV,https://pixman.mytvsuper.com.mp/Smart.php?id=Rtv
+Jak TV,https://pixman.mytvsuper.com.mp/Smart.php?id=JakTV
+iNews TV,https://pixman.mytvsuper.com.mp/Smart.php?id=Inewstv
+Daai TV,https://pixman.mytvsuper.com.mp/Smart.php?id=DaaiTV
+Net TV,https://pixman.mytvsuper.com.mp/Smart.php?id=NetTV
+Animax,https://pixman.mytvsuper.com.mp/Smart.php?id=Animax
+EWTN,https://pixman.mytvsuper.com.mp/Smart.php?id=Ewtn
+AlQuran AlKareem,https://pixman.mytvsuper.com.mp/Smart.php?id=AlQuran
+Tawaf TV,https://pixman.mytvsuper.com.mp/Smart.php?id=TawafTV
+Vision Prime,https://pixman.mytvsuper.com.mp/Smart.php?id=VisionPrime
+Muslim TV,https://pixman.mytvsuper.com.mp/Smart.php?id=MuslimTV
+Music TV,https://pixman.mytvsuper.com.mp/Smart.php?id=MusicTV
+Lifestyle&Fashion,https://pixman.mytvsuper.com.mp/Smart.php?id=Lifestyle
+Entertain,https://pixman.mytvsuper.com.mp/Smart.php?id=Entertain
+Hits,https://pixman.mytvsuper.com.mp/Smart.php?id=Hits
+Warner TV,https://pixman.mytvsuper.com.mp/Smart.php?id=WarnerTV
+SCM,https://pixman.mytvsuper.com.mp/Smart.php?id=Weishimovie
+Thrill,https://pixman.mytvsuper.com.mp/Smart.php?id=Thrill
+Fight Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=Fs
+Beinsports 2 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Bein2hd
+Hits Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Hitsmovie
+One,https://pixman.mytvsuper.com.mp/Smart.php?id=One_mega
+tvN Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvnmovie
+Celestial Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestialindo
+Rock Actions,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockaction
+Rock Entertainment,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockentertain
+香港 Hongkong,#genre#
+J2(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=j2_hkdavid
+J2,https://pixman.mytvsuper.com.mp/Smart.php?id=j2_twn
+RHK 31,https://pixman.mytvsuper.com.mp/Smart.php?id=rhk31_twn
+RHK 32,https://pixman.mytvsuper.com.mp/Smart.php?id=rhk32_twn
+TVB 星河,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbxinhe_twn
+VIUTV1,https://pixman.mytvsuper.com.mp/Smart.php?id=viu1_twn
+Viu TV 69,https://pixman.mytvsuper.com.mp/Smart.php?id=viutv69_hkdavid
+Viu6,https://pixman.mytvsuper.com.mp/Smart.php?id=viusix_twn
+iNews 新聞台,https://pixman.mytvsuper.com.mp/Smart.php?id=inews_twn
+無線財經資訊台,https://pixman.mytvsuper.com.mp/Smart.php?id=tvbcaijing_twn
+珍珠台(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=pearl_hkdavid
+珍珠台,https://pixman.mytvsuper.com.mp/Smart.php?id=pearl_twn
+翡翠台(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=jade_mike
+翡翠台,https://pixman.mytvsuper.com.mp/Smart.php?id=jade_twn
+鳳凰衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixtv_hd
+鳳凰資訊,https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixinfo_hd
+鳳凰香港,https://pixman.mytvsuper.com.mp/Smart.php?id=hkphoenix_twn
+中國 China,#genre#
+CCTV-1,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv1
+CCTV-2,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv2
+CCTV-3,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv3
+CCTV-4,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv4
+CCTV-4 ,https://pixman.mytvsuper.com.mp/Smart.php?id=Cctv4
+CCTV-5,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
+CCTV-5+,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5plus
+CCTV-6,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv6
+CCTV-7,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv7
+CCTV-8,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv8hd
+CCTV-9,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv9hd
+CCTV-10,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv10hd
+CCTV-11,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv11
+CCTV-12,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv12
+CCTV-13,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv13
+CCTV-14,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv14
+CCTV-15,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv15
+CCTV-16,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv16
+CCTV-17,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv17
+湖南衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=hunan_twn
+江蘇衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=jiangsu_twn
+深圳衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=shenzhen
+大灣區衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=nanfang_twn
+廣東衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=guangdongweishi_twn
+北京衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=beijing
+廣東珠江,https://pixman.mytvsuper.com.mp/Smart.php?id=zhujiang
+廣西衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=guangxi
+湖北衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=hubei
+四川衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=sichuan_twn
+鳳凰衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixtv_hd
+東方衛視,https://pixman.mytvsuper.com.mp/Smart.php?id=dongfangweishi_twn
+CGTN,https://pixman.mytvsuper.com.mp/Smart.php?id=CGTN
+鳳凰資訊,https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixinfo_hd
+體育 Sports,#genre#
+Supersports 1,https://pixman.mytvsuper.com.mp/Smart.php?id=Assp1
+Supersports 1(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp1
+Supersportq 1(備用2),https://pixman.mytvsuper.com.mp/Smart.php?id=Assp1_mega
+Supersports 2,https://pixman.mytvsuper.com.mp/Smart.php?id=Assp2
+Supersports 2(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp2
+Supersports 3,https://pixman.mytvsuper.com.mp/Smart.php?id=Assp3
+Supersports 3(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp3
+Supersports 3(備用2),https://pixman.mytvsuper.com.mp/Smart.php?id=Assp3_mega
+Supersports 4,https://pixman.mytvsuper.com.mp/Smart.php?id=Assp4_mega
+Supersports 4(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp4
+Supersports 5,https://pixman.mytvsuper.com.mp/Smart.php?id=go_assp5
+Bein 2HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Beinhd
+Beinsports HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Besports
+Champion 5 EPL,https://pixman.mytvsuper.com.mp/Smart.php?id=Champion5epl
+WWE,https://pixman.mytvsuper.com.mp/Smart.php?id=Wwe
+Champion 6 EPL,https://pixman.mytvsuper.com.mp/Smart.php?id=Champion6epl
+Fight Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=Fs
+UFC Network,https://pixman.mytvsuper.com.mp/Smart.php?id=ufc_mega
+NBA TV,https://pixman.mytvsuper.com.mp/Smart.php?id=nbatv_twn
+Astro Cricket,https://pixman.mytvsuper.com.mp/Smart.php?id=Acricket_mega
+Astro Golf,https://pixman.mytvsuper.com.mp/Smart.php?id=Agolf
+TNT Sports 1,https://pixman.mytvsuper.com.mp/Smart.php?id=beeone
+TNT Sports 2,https://pixman.mytvsuper.com.mp/Smart.php?id=beetwo
+TNT Sports 3,https://pixman.mytvsuper.com.mp/Smart.php?id=beethree
+TNT Sports 4,https://pixman.mytvsuper.com.mp/Smart.php?id=beefour
+Sony Ten 1,https://pixman.mytvsuper.com.mp/Smart.php?id=ten1_raj
+Sony Ten 2,https://pixman.mytvsuper.com.mp/Smart.php?id=ten2_raj
+Sony Ten 3,https://pixman.mytvsuper.com.mp/Smart.php?id=ten3_raj
+SPOTV 1 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=go_spotv
+SPO TV 2,https://pixman.mytvsuper.com.mp/Smart.php?id=go_spotv2
+Beinsports 2 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Bein2hd
+Skysports Arena,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongarena
+Skysports F1,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongf1
+Skysports Cricket,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongcricket
+Skysports EPL,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongepl
+Skysports Football,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongfootball
+Skysports Golf,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankonggolf
+Skysports Main Event,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongmain
+Skysports News,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongnews
+Skysports NFL,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongnfl
+Skysports Racing,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongracing
+Skysports Mix,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongmix
+CCTV-5,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
+CCTV-5+,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5plus
+愛爾達體育2台,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport2_twn
+愛爾達體育3台,https://pixman.mytvsuper.com.mp/Smart.php?id=eltasport3_twn
+RTM Sports HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Rtmsport
+Arena,https://pixman.mytvsuper.com.mp/Smart.php?id=Arena
+Arena 2,https://pixman.mytvsuper.com.mp/Smart.php?id=Arena2
+BolaArena 1,https://pixman.mytvsuper.com.mp/Smart.php?id=Bolaarena1
+Bein 1 Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=bein1_mega
+Bein 2 Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=bein2_mega
+Bein 3 Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=bein3_mega
+Bein 4 Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=bein4_mega
+Bein 5 Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=bein5_mega
+Bein 6 Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=bein6_mega
+Bein 7 Sports,https://pixman.mytvsuper.com.mp/Smart.php?id=bein7_mega
+Rugby Pass TV,https://pixman.mytvsuper.com.mp/Smart.php?id=Rugbypasstv
+BolaArena 2,https://pixman.mytvsuper.com.mp/Smart.php?id=Bolaarena2
+印度 Indian,#genre#
+Sun TV HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Suntv
+Star Vijay,https://pixman.mytvsuper.com.mp/Smart.php?id=Starvijay
+Colors Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=Colorstam_mega
+Sun Music,https://pixman.mytvsuper.com.mp/Smart.php?id=Sunmusic
+Astro Sunlife,https://pixman.mytvsuper.com.mp/Smart.php?id=Sunlife
+Astro Vaanavil,https://pixman.mytvsuper.com.mp/Smart.php?id=Vaanavil
+Zee Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=Zeetamil
+Zee Business,https://pixman.mytvsuper.com.mp/Smart.php?id=Zeebusiness
+News 18 Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=news18tamil_raj
+Adithya,https://pixman.mytvsuper.com.mp/Smart.php?id=Adithya
+Makkal TV,https://pixman.mytvsuper.com.mp/Smart.php?id=Makkaltv
+Zee Action,https://pixman.mytvsuper.com.mp/Smart.php?id=Zeeaction
+Astro KTV,https://pixman.mytvsuper.com.mp/Smart.php?id=Astroktv
+Zee TV HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Zeetvhd
+Zee Cinema HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Zeecinemahd
+Color HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Colorhd
+Starplus HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Starplushd
+Picture HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Npicture
+Zee News,https://pixman.mytvsuper.com.mp/Smart.php?id=Zeenews
+Asianet,https://pixman.mytvsuper.com.mp/Smart.php?id=asianet_raj
+Asianet News,https://pixman.mytvsuper.com.mp/Smart.php?id=asianetnews_raj
+Times Now,https://pixman.mytvsuper.com.mp/Smart.php?id=timesnow_mega
+BBC Earth Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcearthtam_raj
+Discovery World Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=discoveryworldtam_raj
+History Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=historytam_raj
+NatGeo Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=natgeotamil_raj
+Natgeo Wild Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=natgeowildtamil_raj
+Discovery Kids Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=discoverykidtamil_raj
+Discovery Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=discoverytamil_raj
+Sony Yay Tamil,https://pixman.mytvsuper.com.mp/Smart.php?id=sonyyaytam_raj
+Sun TV India,https://pixman.mytvsuper.com.mp/Smart.php?id=suntv_raj
+Starmaa HD,https://pixman.mytvsuper.com.mp/Smart.php?id=starmaa_raj
+Starmaa Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=starmaamovies_raj
+Bollyone,https://pixman.mytvsuper.com.mp/Smart.php?id=Bollyone
+Astro Sunmusic,https://pixman.mytvsuper.com.mp/Smart.php?id=Sunmusic
+Sony Pix HD,https://pixman.mytvsuper.com.mp/Smart.php?id=sonypix_mega
+Vijay Super,https://pixman.mytvsuper.com.mp/Smart.php?id=vijaysuper_raj
+電影 Movie,#genre#
+AXN,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
+Animax,https://pixman.mytvsuper.com.mp/Smart.php?id=Animax
+Astrol Kplus,https://pixman.mytvsuper.com.mp/Smart.php?id=Kplus
+Axn HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Axn
+CCTV-6,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv6
+CINEMAX,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn
+Celestial Classic,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial2
+Celestial Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestialindo
+Cinemax,https://pixman.mytvsuper.com.mp/Smart.php?id=Cinemax
+HBO Family,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbofamily
+HBO HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbo
+HBO Hits,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbohits
+HBO Signature,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbosignature
+HBO_HD,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn
+HBO_HITS,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohits_twn
+Hits Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Hitsmovie
+Hits,https://pixman.mytvsuper.com.mp/Smart.php?id=Hits
+Hollywood Movies,https://pixman.mytvsuper.com.mp/Smart.php?id=hollywoodmovies_twn
+Movies Now HD,https://pixman.mytvsuper.com.mp/Smart.php?id=moviesnow_raj
+One,https://pixman.mytvsuper.com.mp/Smart.php?id=One_mega
+Paramount Network,https://pixman.mytvsuper.com.mp/Smart.php?id=Paramountnetwork
+Rock Actions,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockaction
+Rock Entertainment,https://pixman.mytvsuper.com.mp/Smart.php?id=Rockentertain
+SCM,https://pixman.mytvsuper.com.mp/Smart.php?id=Weishimovie
+Sony Pix HD,https://pixman.mytvsuper.com.mp/Smart.php?id=sonypix_mega
+Star Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=starmovies_raj
+Thrill,https://pixman.mytvsuper.com.mp/Smart.php?id=Thrill
+Warner TV,https://pixman.mytvsuper.com.mp/Smart.php?id=WarnerTV
+tvN Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvnmovie
+大愛2台,https://pixman.mytvsuper.com.mp/Smart.php?id=catchplay_twn
+龍華電影,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie
+東森洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvwestern
+東森電影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
+美亞電影,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+龍華洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
+龍祥时代,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
+紀錄 Documentary,#genre#
+AFC 亞洲旅遊台,https://pixman.mytvsuper.com.mp/Smart.php?id=asiatravel_twn
+Animal Planet (Eng),https://pixman.mytvsuper.com.mp/Smart.php?id=AnimalPlanet
+Animal_Planet,https://pixman.mytvsuper.com.mp/Smart.php?id=animalplanet_twn
+Asia Travel,https://pixman.mytvsuper.com.mp/Smart.php?id=asiatravel_twn
+BBC Earth HD,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcearth_twn
+BBC Earth Lifestyle,https://pixman.mytvsuper.com.mp/Smart.php?id=bbclifestyle_twn
+CI,https://pixman.mytvsuper.com.mp/Smart.php?id=ci_twn
+Discovery Asia,https://pixman.mytvsuper.com.mp/Smart.php?id=discoverytwn_twn
+Discovery HD,https://pixman.mytvsuper.com.mp/Smart.php?id=discoveryhd_twn
+Fashion TV,https://pixman.mytvsuper.com.mp/Smart.php?id=fashiontv_twn
+Foodnetwork Hd,https://pixman.mytvsuper.com.mp/Smart.php?id=Foodnetwork_mega
+HGTV,https://pixman.mytvsuper.com.mp/Smart.php?id=HGTV
+History,https://pixman.mytvsuper.com.mp/Smart.php?id=History
+MTV Live,https://pixman.mytvsuper.com.mp/Smart.php?id=mtvhd_twn
+NatGeo HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Natgeo
+NatGeo Wild HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Natgeowild
+NatGeo_Wild HD,https://pixman.mytvsuper.com.mp/Smart.php?id=natgeowild_twn
+Natgeo_HD,https://pixman.mytvsuper.com.mp/Smart.php?id=natgeohd_twn
+TLC,https://pixman.mytvsuper.com.mp/Smart.php?id=Tlc
+TLC Asia,https://pixman.mytvsuper.com.mp/Smart.php?id=tlc_twn
+亞洲美食,https://pixman.mytvsuper.com.mp/Smart.php?id=afc_twn
+美食星球,https://pixman.mytvsuper.com.mp/Smart.php?id=foodplanet_twn
+新聞 News,#genre#
+ABC News,https://pixman.mytvsuper.com.mp/Smart.php?id=abcnews_glo
+Al-Jazeera,https://pixman.mytvsuper.com.mp/Smart.php?id=aljazeera_twn
+BBC World News,https://pixman.mytvsuper.com.mp/Smart.php?id=Bbcnews
+BBC World News,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcnews_twn
+Bloomberg News,https://pixman.mytvsuper.com.mp/Smart.php?id=bloomberg_twn
+CBS HD,https://pixman.mytvsuper.com.mp/Smart.php?id=cbshd_glo
+CBSN HD,https://pixman.mytvsuper.com.mp/Smart.php?id=cbsn_glo
+CGTN,https://pixman.mytvsuper.com.mp/Smart.php?id=CGTN
+CNA,https://pixman.mytvsuper.com.mp/Smart.php?id=cna
+CNBC,https://pixman.mytvsuper.com.mp/Smart.php?id=cnbc_twn
+CNN International,https://pixman.mytvsuper.com.mp/Smart.php?id=Cnn
+CNN(備用),https://pixman.mytvsuper.com.mp/Smart.php?id=cnn_twn
+DW (Deutsch),https://pixman.mytvsuper.com.mp/Smart.php?id=dw_twn
+Fox News,https://pixman.mytvsuper.com.mp/Smart.php?id=foxnews_twn
+France 24,https://pixman.mytvsuper.com.mp/Smart.php?id=france24_twn
+NHK World,https://pixman.mytvsuper.com.mp/Smart.php?id=nhkworld_japan
+Skynews,https://pixman.mytvsuper.com.mp/Smart.php?id=skynews_antik
+東森財經新聞,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvcaijing_twn
+兒童 Kids,#genre#
+Animax,https://pixman.mytvsuper.com.mp/Smart.php?id=Animax
+Baby TV Eng,https://pixman.mytvsuper.com.mp/Smart.php?id=Babytv
+Baby TV,https://pixman.mytvsuper.com.mp/Smart.php?id=babytv_twn
+Boomerang Taiwan,https://pixman.mytvsuper.com.mp/Smart.php?id=boomerang_twn
+Boomerang,https://pixman.mytvsuper.com.mp/Smart.php?id=Boomerang
+CBeebies,https://pixman.mytvsuper.com.mp/Smart.php?id=Cbeebies
+Cartoon Network,https://pixman.mytvsuper.com.mp/Smart.php?id=Cn
+Disney Taiwan,https://pixman.mytvsuper.com.mp/Smart.php?id=disneytwn_twn
+Kids TV,https://pixman.mytvsuper.com.mp/Smart.php?id=KidsTV
+MiaoMi,https://pixman.mytvsuper.com.mp/Smart.php?id=MiaoMi
+Momo TV,https://pixman.mytvsuper.com.mp/Smart.php?id=momo1_twn
+Nick Jr,https://pixman.mytvsuper.com.mp/Smart.php?id=Nickjr
+Nickelodeon,https://pixman.mytvsuper.com.mp/Smart.php?id=Nickelodeon
+東森幼幼 Yoyo TV,https://pixman.mytvsuper.com.mp/Smart.php?id=yoyo_twn
+靖天卡通台,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtiancartoon_twn
+泰國 Thailand,#genre#
+Amarin,https://pixman.mytvsuper.com.mp/Smart.php?id=amarin_pat
+Ch 8,https://pixman.mytvsuper.com.mp/Smart.php?id=ch8_pat
+Channel 3 Thailand,https://pixman.mytvsuper.com.mp/Smart.php?id=ch3_pat
+Channel 5 Thailand,https://pixman.mytvsuper.com.mp/Smart.php?id=ch5_pat
+Channel 7 Thailand,https://pixman.mytvsuper.com.mp/Smart.php?id=ch7_pat
+Gmm Channel,https://pixman.mytvsuper.com.mp/Smart.php?id=gmmchannel_pat
+GmmOne,https://pixman.mytvsuper.com.mp/Smart.php?id=gmmone_pat
+MCOT HD Thailand-1,https://pixman.mytvsuper.com.mp/Smart.php?id=mcot_pat
+Mono,https://pixman.mytvsuper.com.mp/Smart.php?id=mono_pat
+Nation,https://pixman.mytvsuper.com.mp/Smart.php?id=nation_pat
+Nbt,https://pixman.mytvsuper.com.mp/Smart.php?id=nbt_pat
+New,https://pixman.mytvsuper.com.mp/Smart.php?id=new_pat
+PPTV Thailand1,https://pixman.mytvsuper.com.mp/Smart.php?id=pptv_pat
+TPTV,https://pixman.mytvsuper.com.mp/Smart.php?id=tptv_pat
+Thai Thai,https://pixman.mytvsuper.com.mp/Smart.php?id=thaithai_pat
+Thairath,https://pixman.mytvsuper.com.mp/Smart.php?id=thairath_pat
+Tnn24,https://pixman.mytvsuper.com.mp/Smart.php?id=tnn24_pat
+Workpoint,https://pixman.mytvsuper.com.mp/Smart.php?id=workpoint_pat
+tpbs,https://pixman.mytvsuper.com.mp/Smart.php?id=tpbs_pat
+英國 United Kingdom,#genre#
+Al-Jazeera,https://pixman.mytvsuper.com.mp/Smart.php?id=aljazeera_twn
+Animal Planet (Eng),https://pixman.mytvsuper.com.mp/Smart.php?id=AnimalPlanet
+Axn HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Axn
+BBC 1,https://pixman.mytvsuper.com.mp/Smart.php?id=bbc1_antik
+BBC 2,https://pixman.mytvsuper.com.mp/Smart.php?id=bbc2_antik
+BBC Earth HD,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcearth_twn
+BBC Earth Lifestyle,https://pixman.mytvsuper.com.mp/Smart.php?id=bbclifestyle_twn
+BBC World News,https://pixman.mytvsuper.com.mp/Smart.php?id=bbcworldnews_antik
+Bloomberg News,https://pixman.mytvsuper.com.mp/Smart.php?id=bloomberg_twn
+Boomerang,https://pixman.mytvsuper.com.mp/Smart.php?id=Boomerang
+CBBC,https://pixman.mytvsuper.com.mp/Smart.php?id=cbbc_antik
+CBeebies,https://pixman.mytvsuper.com.mp/Smart.php?id=Cbeebies
+CGTN,https://pixman.mytvsuper.com.mp/Smart.php?id=CGTN
+CNBC,https://pixman.mytvsuper.com.mp/Smart.php?id=cnbc_twn
+Channel 4,https://pixman.mytvsuper.com.mp/Smart.php?id=channel4_antik
+DW (Deutsch),https://pixman.mytvsuper.com.mp/Smart.php?id=dw_twn
+Euronews,https://pixman.mytvsuper.com.mp/Smart.php?id=euronews_antik
+France 24,https://pixman.mytvsuper.com.mp/Smart.php?id=france24_twn
+Freesports,https://pixman.mytvsuper.com.mp/Smart.php?id=freesports_antik
+HBO HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Hbo
+HGTV,https://pixman.mytvsuper.com.mp/Smart.php?id=HGTV
+History,https://pixman.mytvsuper.com.mp/Smart.php?id=History
+Hits Movie,https://pixman.mytvsuper.com.mp/Smart.php?id=Hitsmovie
+Kids TV,https://pixman.mytvsuper.com.mp/Smart.php?id=KidsTV
+MTV Live,https://pixman.mytvsuper.com.mp/Smart.php?id=mtvhd_twn
+More4,https://pixman.mytvsuper.com.mp/Smart.php?id=more4_antik
+NHK World,https://pixman.mytvsuper.com.mp/Smart.php?id=nhkworld_japan
+NatGeo HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Natgeo
+NatGeo Wild HD,https://pixman.mytvsuper.com.mp/Smart.php?id=Natgeowild
+Nick Jr,https://pixman.mytvsuper.com.mp/Smart.php?id=Nickjr
+Nickelodeon,https://pixman.mytvsuper.com.mp/Smart.php?id=Nickelodeon
+Pick TV,https://pixman.mytvsuper.com.mp/Smart.php?id=picktv_antik
+Skynews,https://pixman.mytvsuper.com.mp/Smart.php?id=skynews_antik
+Skysports Arena,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongarena
+Skysports Cricket,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongcricket
+Skysports EPL,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongepl
+Skysports F1,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongf1
+Skysports Football,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongfootball
+Skysports Golf,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankonggolf
+Skysports Main Event,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongmain
+Skysports News,https://pixman.mytvsuper.com.mp/Smart.php?id=tiankongnews
+Star Movies HD,https://pixman.mytvsuper.com.mp/Smart.php?id=starmovies_raj
+TLC,https://pixman.mytvsuper.com.mp/Smart.php?id=Tlc
+Thrill,https://pixman.mytvsuper.com.mp/Smart.php?id=Thrill
+Warner TV,https://pixman.mytvsuper.com.mp/Smart.php?id=WarnerTV
+itv 1,https://pixman.mytvsuper.com.mp/Smart.php?id=itv1_antik
+itv 2,https://pixman.mytvsuper.com.mp/Smart.php?id=itv2_antik
+越南 Vietnam,#genre#
+ANTV,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_antv
+BPTV 2,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_bptv2
+BRT HD,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_brt
+Ca Mau TV,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_camautv
+Danang TV1 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_danangtv1
+Danang TV2 HD,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_danangtv2
+HBTV HD,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_hbtv
+HTV 7,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_htv7
+HTV 9,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_htv9
+PTTH 1,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_ptth1
+VTV 1,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_vtv1
+VTV 7,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_vtv7
+韓國 Korea,#genre#
+All the Kpop,https://pixman.mytvsuper.com.mp/Smart.php?id=allthekpop_korea
+Apps TV,https://pixman.mytvsuper.com.mp/Smart.php?id=appongoogle_korea
+Arirang HD,https://pixman.mytvsuper.com.mp/Smart.php?id=arirang_korea
+CBS,https://pixman.mytvsuper.com.mp/Smart.php?id=cbs_korea
+CGNTV,https://pixman.mytvsuper.com.mp/Smart.php?id=cgntv_korea
+EBS 1,https://pixman.mytvsuper.com.mp/Smart.php?id=ebs1_korea
+EBS Kids,https://pixman.mytvsuper.com.mp/Smart.php?id=ebskids_korea
+EBS Plus2,https://pixman.mytvsuper.com.mp/Smart.php?id=ebsplus2_korea
+EBS2,https://pixman.mytvsuper.com.mp/Smart.php?id=ebs2_korea
+J the Kpop,https://pixman.mytvsuper.com.mp/Smart.php?id=jthekpop_korea
+KBS World 24,https://pixman.mytvsuper.com.mp/Smart.php?id=kbsworld24_korea
+SBS Plus,https://pixman.mytvsuper.com.mp/Smart.php?id=sbsplus_korea
+YTN DMB,https://pixman.mytvsuper.com.mp/Smart.php?id=ytndmb_korea
+YTN Korean,https://pixman.mytvsuper.com.mp/Smart.php?id=ytnkorean_korea
+YTN Science,https://pixman.mytvsuper.com.mp/Smart.php?id=ytnscience_korea
+YTN,https://pixman.mytvsuper.com.mp/Smart.php?id=ytn_korea
+Yonhap News,https://pixman.mytvsuper.com.mp/Smart.php?id=yonhapnews_korea
+日本 Japan,#genre#
+BS-TBS,https://pixman.mytvsuper.com.mp/Smart.php?id=bstbs_japan
+BSジャパン 181,https://pixman.mytvsuper.com.mp/Smart.php?id=bs181_japan
+BSフジ BS Fuji,https://pixman.mytvsuper.com.mp/Smart.php?id=bsfuji_japan
+CNA Japan,https://pixman.mytvsuper.com.mp/Smart.php?id=cna_japan
+JET 綜合,https://pixman.mytvsuper.com.mp/Smart.php?id=jettv_japan
+NHK Oaska,https://pixman.mytvsuper.com.mp/Smart.php?id=nhkosaka_japan
+NHK World,https://pixman.mytvsuper.com.mp/Smart.php?id=nhkworld_japan
+NHK-E,https://pixman.mytvsuper.com.mp/Smart.php?id=nhke_japan
+NHK-総合-2,https://pixman.mytvsuper.com.mp/Smart.php?id=nhkg_japan
+NHKBS1,https://pixman.mytvsuper.com.mp/Smart.php?id=nhkbs1_japan
+NHKBSプレミア Premium,https://pixman.mytvsuper.com.mp/Smart.php?id=nhkpremium_japan
+TOKYOMX,https://pixman.mytvsuper.com.mp/Smart.php?id=tokyomx_japan
+テレビ朝日 Asahi TV,https://pixman.mytvsuper.com.mp/Smart.php?id=asahitv_japan
+テレビ東京 Tokyo TV,https://pixman.mytvsuper.com.mp/Smart.php?id=tokyotv_japan
