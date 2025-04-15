@@ -27,107 +27,25 @@ rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣", 華視
 rtmp://f13h.mine.nu/sat/tv111
 
-
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="台灣", 龍華偶像台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn12
-
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="台灣", 龍華卡通台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn01
-
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="台灣", 龍華戲劇台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn18
-
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="台灣", 龍華日韓台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn11
-
-#EXTINF:-1 tvg-id="靖洋卡通-Nice-Bingo" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png" group-title="台灣", 靖洋卡通 Nice Bingo
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv057
-
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台灣", TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="台灣", TVBS 歡樂台
 http://125.227.210.55:8187/VideoInput/play.ts
 
-
-
-
-
-#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="台灣", ELTA 娛樂台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv070
-
-#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="台灣", ELTV 生活英語
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn20
-
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="台灣", 非凡商業台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
-
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="台灣", 亞洲旅遊台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn17
-
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="台灣", GINX Esports TV
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
-
-#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公視戲劇台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="台灣", 公視戲劇台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv042
-
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="台灣", 采昌影劇台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv049
-
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="台灣", 台灣戲劇台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn22
-
-#EXTINF:-1 tvg-id="i-Fun-動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun-動漫台.png" group-title="台灣", i-Fun 動漫台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15
-
-#EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="台灣", Classica 古典樂
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv059
-
-#EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="台灣", Mezzo Live
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv083
-
-#EXTINF:-1 tvg-id="韓國娛樂台" tvg-name="韓國娛樂台" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="台灣", 韓國娛樂台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv016
-
-#EXTINF:-1 tvg-id="Arirang-TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="台灣", Arirang TV
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv079
-
-#EXTINF:-1 tvg-id="VOA-美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="台灣", VOA 美國之音
-https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv03
-
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="台灣", 第1商業台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv104
-
-#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="台灣", Smart 知識台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn19
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="新聞", 民視新聞台
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="台灣", 民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="新聞", 台視新聞台
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="台灣", 台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
-#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="新聞", TVBS 新聞台
+#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS 新聞台
 http://125.227.210.55:8186/VideoInput/play.ts
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="體育", DAZN1
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="台灣", DAZN1
 rtmp://f13h.mine.nu/sat/tv731
 
-#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="體育", DAZN2
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="台灣", DAZN2
 rtmp://f13h.mine.nu/sat/tv741
 
 
