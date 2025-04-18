@@ -2,9 +2,9 @@
 http://jaz9.my.to:9981/stream/channelid/1036244489?profile=pass
 #EXTINF:-1 tvg-id="b0a550a8d8be288d48a5b9f94bf7a53d" tvg-chno="372" group-title="台灣",曼迪日本台
 http://jaz9.my.to:9981/stream/channelid/676373936?profile=pass
-#EXTINF:-1 tvg-id="127054e0d1a9bd6a834d4a30aaf0051b" tvg-chno="6",民視
+#EXTINF:-1 tvg-id="127054e0d1a9bd6a834d4a30aaf0051b" tvg-chno="6" group-title="台灣",民視
 http://jaz9.my.to:9981/stream/channelid/1616146450?profile=pass
-#EXTINF:-1 tvg-id="68d9a0239648321a3be026cb9d21c129" tvg-chno="7",人間衛視
+#EXTINF:-1 tvg-id="68d9a0239648321a3be026cb9d21c129" tvg-chno="7" group-title="台灣",人間衛視
 http://jaz9.my.to:9981/stream/channelid/597743976?profile=pass
 #EXTINF:-1 tvg-id="f2357d0f82a55f40e438114dbe882026" tvg-chno="8",台視
 http://jaz9.my.to:9981/stream/channelid/259864050?profile=pass
