@@ -1,4 +1,3 @@
-台灣,#genre#
 #EXTINF:-1 tvg-id="09d6c3bda933d6db471344bd88c3ec7a" tvg-chno="371",靖天日本台
 http://jaz9.my.to:9981/stream/channelid/1036244489?profile=pass
 #EXTINF:-1 tvg-id="b0a550a8d8be288d48a5b9f94bf7a53d" tvg-chno="372",曼迪日本台
@@ -309,10 +308,6 @@ http://jaz9.my.to:9981/stream/channelid/433664842?profile=pass
 http://jaz9.my.to:9981/stream/channelid/204314342?profile=pass
 #EXTINF:-1 tvg-id="635ffb8453208d3122eaec03c6b83985" tvg-chno="216",EUROSPORT
 http://jaz9.my.to:9981/stream/channelid/83582819?profile=pass
-
-
-
-電影,#genre#
 #EXTINF:-1 tvg-id="c51d4a4aa54a79b6cf7c8857b9a6e6ac" tvg-chno="619",amc電影台
 http://jaz9.my.to:9981/stream/channelid/1246371269?profile=pass
 #EXTINF:-1 tvg-id="3e78fc0b614e125d9d7e7ac507c70453" tvg-chno="626",CatchPlay電影
@@ -339,11 +334,6 @@ http://jaz9.my.to:9981/stream/channelid/703627432?profile=pass
 http://jaz9.my.to:9981/stream/channelid/596560175?profile=pass
 #EXTINF:-1 tvg-id="fc95899e7ac96def846f973533dda69f" tvg-chno="633",MCE我的歐洲電影
 http://jaz9.my.to:9981/stream/channelid/512333308?profile=pass
-
-
-
-
-紀實,#genre#
 #EXTINF:-1 tvg-id="d653d0ba09ad5006459c39e3825eb0e2" tvg-chno="268",HGTV居家樂活頻道
 http://jaz9.my.to:9981/stream/channelid/986731478?profile=pass
 #EXTINF:-1 tvg-id="c52544c670791ea1d14c11ef4070cb8e" tvg-chno="253",Discovery亞洲
