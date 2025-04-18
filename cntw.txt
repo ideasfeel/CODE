@@ -1,7 +1,6 @@
-
-#EXTINF:-1 tvg-id="09d6c3bda933d6db471344bd88c3ec7a" tvg-chno="371",靖天日本台
+#EXTINF:-1 tvg-id="09d6c3bda933d6db471344bd88c3ec7a" tvg-chno="371" group-title="台灣",靖天日本台
 http://jaz9.my.to:9981/stream/channelid/1036244489?profile=pass
-#EXTINF:-1 tvg-id="b0a550a8d8be288d48a5b9f94bf7a53d" tvg-chno="372",曼迪日本台
+#EXTINF:-1 tvg-id="b0a550a8d8be288d48a5b9f94bf7a53d" tvg-chno="372" group-title="台灣",曼迪日本台
 http://jaz9.my.to:9981/stream/channelid/676373936?profile=pass
 #EXTINF:-1 tvg-id="127054e0d1a9bd6a834d4a30aaf0051b" tvg-chno="6",民視
 http://jaz9.my.to:9981/stream/channelid/1616146450?profile=pass
@@ -224,7 +223,7 @@ http://jaz9.my.to:9981/stream/channelid/633337194?profile=pass
 
 
 
-
+新聞,#genre#
 #EXTINF:-1 tvg-id="03f73f5d574de28b952b29a4b0dd394a" tvg-chno="500",中視新聞台
 http://jaz9.my.to:9981/stream/channelid/1564473091?profile=pass
 #EXTINF:-1 tvg-id="a6f4b918bdcf95962d4e6d6832d45fb7" tvg-chno="501",寰宇新聞台
@@ -274,7 +273,7 @@ http://jaz9.my.to:9981/stream/channelid/1442870598?profile=pass
 
 
 
-
+體育,#genre#
 #EXTINF:-1 tvg-id="15e04d5974f57a0969c21ffe92177aed" tvg-chno="200",愛爾達體育1台
 http://jaz9.my.to:9981/stream/channelid/1498275861?profile=pass
 #EXTINF:-1 tvg-id="d41d9bdd50663c00726d5dcfca4f4969" tvg-chno="201",愛爾達體育2台
@@ -312,7 +311,7 @@ http://jaz9.my.to:9981/stream/channelid/83582819?profile=pass
 
 
 
-
+電影,#genre#
 #EXTINF:-1 tvg-id="c51d4a4aa54a79b6cf7c8857b9a6e6ac" tvg-chno="619",amc電影台
 http://jaz9.my.to:9981/stream/channelid/1246371269?profile=pass
 #EXTINF:-1 tvg-id="3e78fc0b614e125d9d7e7ac507c70453" tvg-chno="626",CatchPlay電影
@@ -339,6 +338,7 @@ http://jaz9.my.to:9981/stream/channelid/703627432?profile=pass
 http://jaz9.my.to:9981/stream/channelid/596560175?profile=pass
 #EXTINF:-1 tvg-id="fc95899e7ac96def846f973533dda69f" tvg-chno="633",MCE我的歐洲電影
 http://jaz9.my.to:9981/stream/channelid/512333308?profile=pass
+
 
 
 
