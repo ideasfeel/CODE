@@ -164,7 +164,7 @@ http://pixman.mytvsuper.com.mp/Smart.php?id=natgeohd_twn
 http://pixman.mytvsuper.com.mp/Smart.php?id=natgeohd_twn
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://assets.livednow.com/logo/HGTV-TW.png" group-title="紀實", HGTV
-http://jaz9.my.to:9981/stream/channelid/986731478?profile=pass
+http://pixman.mytvsuper.com.mp/Smart.php?id=HGTV
 
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://assets.livednow.com/logo/BBC-Lifestyle.png" group-title="紀實", BBC Lifestyle
 http://pixman.mytvsuper.com.mp/Smart.php?id=bbclifestyle_twn
