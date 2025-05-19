@@ -1055,7 +1055,7 @@ EYETV旅遊,http://198.16.100.186:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF506
 台視新聞,http://jnzq.ohoyee.com:9080/live/ts.m3u8
 大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
-💓港澳台📶,#genre#
+📺港澳台📶,#genre#
 鳳凰衛視中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰衛視資訊台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -2768,7 +2768,7 @@ CHC影迷電影,http://113.105.29.43:60901/tsfile/live/1037_1.m3u8?key=txiptv&pl
 天映經典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
 天映經典,http://j.s.bkpcp.top/jj/tyjd
 天映頻道,http://j.s.bkpcp.top/jj/typd
-💓台灣台📶,#genre#
+📺台灣台📶,#genre#
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戲劇,http://211.72.65.236:8531/.m3u8
 八大戲劇,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
@@ -3906,7 +3906,7 @@ cn卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 龍華卡通,http://cdn8.163189.xyz/live/lhkt/stream.m3u8
 
 
-💝中國港澳台👉全網,#genre#
+📺中國港澳台📶全網,#genre#
 Animax(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
