@@ -3906,7 +3906,7 @@ cn卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 龍華卡通,http://cdn8.163189.xyz/live/lhkt/stream.m3u8
 
 
-📺中國港澳台📶全網,#genre#
+📺中國港澳台📶,#genre#
 Animax(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
