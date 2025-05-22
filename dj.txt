@@ -95,39 +95,14 @@ Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_
 
 
 📶 代理,#genre#
-鳳凰衛視中文,http://47.239.163.171/HDTV/QQ群1047470024.php?id=1
-鳳凰衛視資訊,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-鳳凰衛視資訊,http://47.239.163.171/HDTV/QQ群1047470024.php?id=3
-鳳凰衛視香港,http://47.239.163.171/HDTV/QQ群1047470024.php?id=5
-香港有線新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=6
-TVB翡翠,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-TVB無綫新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=8
-TVB無綫新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=9
-TVBplus,http://47.239.163.171/HDTV/QQ群1047470024.php?id=11
-VIU TV,http://47.239.163.171/HDTV/QQ群1047470024.php?id=14
-VIUTV6,http://47.239.163.171/HDTV/QQ群1047470024.php?id=15
-NOW新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=16
-Now體育,http://47.239.163.171/HDTV/QQ群1047470024.php?id=18
-Now英超1,http://47.239.163.171/HDTV/QQ群1047470024.php?id=19
-HOY77,http://47.239.163.171/HDTV/QQ群1047470024.php?id=20
-TVB黃金翡翠,http://47.239.163.171/HDTV/QQ群1047470024.php?id=22
-TVB千禧經典,http://47.239.163.171/HDTV/QQ群1047470024.php?id=23
-TVB亞洲劇,http://47.239.163.171/HDTV/QQ群1047470024.php?id=24
-TVB亞洲綜合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=26
-TVB戲曲,http://47.239.163.171/HDTV/QQ群1047470024.php?id=28
-TVB粵語片,http://47.239.163.171/HDTV/QQ群1047470024.php?id=29
-MyTV兒童,http://47.239.163.171/HDTV/QQ群1047470024.php?id=30
-popc,http://47.239.163.171/HDTV/QQ群1047470024.php?id=33
-美亞電影(港),http://47.239.163.171/HDTV/QQ群1047470024.php?id=34
-美亞電影(台),http://47.239.163.171/HDTV/QQ群1047470024.php?id=35
-中天新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=37
-中天綜合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=38
-TVBS新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=40
-TVBSHD,http://47.239.163.171/HDTV/QQ群1047470024.php?id=41
 壹新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=42
 年代新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=43
 非凡新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=44
 鏡新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=46
+中天新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=37
+中天綜合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=38
+TVBS新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=40
+TVBSHD,http://47.239.163.171/HDTV/QQ群1047470024.php?id=41
 東森新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=47
 東森超視,http://47.239.163.171/HDTV/QQ群1047470024.php?id=48
 東森綜合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=49
@@ -159,26 +134,34 @@ AMC電影,http://47.239.163.171/HDTV/QQ群1047470024.php?id=75
 公視戲劇,http://47.239.163.171/HDTV/QQ群1047470024.php?id=80
 民視,http://47.239.163.171/HDTV/QQ群1047470024.php?id=81
 民視影劇,http://47.239.163.171/HDTV/QQ群1047470024.php?id=82
+鳳凰衛視中文,http://47.239.163.171/HDTV/QQ群1047470024.php?id=1
+鳳凰衛視資訊,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+鳳凰衛視資訊,http://47.239.163.171/HDTV/QQ群1047470024.php?id=3
+鳳凰衛視香港,http://47.239.163.171/HDTV/QQ群1047470024.php?id=5
+香港有線新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=6
+TVB翡翠,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+TVB無綫新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=8
+TVB無綫新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=9
+TVBplus,http://47.239.163.171/HDTV/QQ群1047470024.php?id=11
+VIU TV,http://47.239.163.171/HDTV/QQ群1047470024.php?id=14
+VIUTV6,http://47.239.163.171/HDTV/QQ群1047470024.php?id=15
+NOW新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=16
+Now體育,http://47.239.163.171/HDTV/QQ群1047470024.php?id=18
+Now英超1,http://47.239.163.171/HDTV/QQ群1047470024.php?id=19
+HOY77,http://47.239.163.171/HDTV/QQ群1047470024.php?id=20
+TVB黃金翡翠,http://47.239.163.171/HDTV/QQ群1047470024.php?id=22
+TVB千禧經典,http://47.239.163.171/HDTV/QQ群1047470024.php?id=23
+TVB亞洲劇,http://47.239.163.171/HDTV/QQ群1047470024.php?id=24
+TVB亞洲綜合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=26
+TVB戲曲,http://47.239.163.171/HDTV/QQ群1047470024.php?id=28
+TVB粵語片,http://47.239.163.171/HDTV/QQ群1047470024.php?id=29
+MyTV兒童,http://47.239.163.171/HDTV/QQ群1047470024.php?id=30
+popc,http://47.239.163.171/HDTV/QQ群1047470024.php?id=33
+美亞電影(港),http://47.239.163.171/HDTV/QQ群1047470024.php?id=34
+美亞電影(台),http://47.239.163.171/HDTV/QQ群1047470024.php?id=35
+
 
 🛰️ 衛星,#genre#
-鳳凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-中天新聞,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
-搜狐劇場,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-星光電影,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-東森電影,https://ali.hlspull.yximgs.com/live/11q2w3e4r5t6y7u8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3ed.flv
-龍祥時代,https://ali.hlspull.yximgs.com/live/14r5t6y7u8i9o0p1q2w3e4r5t6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8.flv
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-音樂欣賞1,http://61.221.215.25:8800/hls/49/index.m3u8
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
-百姓健康,http://8.138.7.223/tv/bxjk.m3u8
-八度空間,http://8.138.7.223/【公眾號：榴芒電視】/8tv.m3u8
-新加CH5頻高,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-龍華卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-RTHK-33頻道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK-34頻道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK-35頻道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 國家地理,http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
@@ -222,6 +205,24 @@ CN卡通,http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MF7F566558295665
 龍華戲劇,http://198.16.100.186:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6e351c1cca8c4f6d4a8be9b8d774dc0a
 龍華經典,http://198.16.100.186:8278/lunghuajingdian_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=96207c471d439515e0067b333e3b5459
 龍華電影,http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=53153e05f428f28b65eb5559ae5b9dc0
+鳳凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+中天新聞,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
+搜狐劇場,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+星光電影,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+東森電影,https://ali.hlspull.yximgs.com/live/11q2w3e4r5t6y7u8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3ed.flv
+龍祥時代,https://ali.hlspull.yximgs.com/live/14r5t6y7u8i9o0p1q2w3e4r5t6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8.flv
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+音樂欣賞1,http://61.221.215.25:8800/hls/49/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
+百姓健康,http://8.138.7.223/tv/bxjk.m3u8
+八度空間,http://8.138.7.223/【公眾號：榴芒電視】/8tv.m3u8
+新加CH5頻高,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+龍華卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+RTHK-33頻道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK-34頻道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK-35頻道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 Kompass TV,http://198.16.100.186:8278/Kompass/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5dcf7ab227a836046597dfa05663d90a
 Indosiar HD,http://198.16.100.186:8278/Indosiar/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c9b27b4c7de9e1772c7e52cf40f7bd55
 AnTV,http://198.16.100.186:8278/Antv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ee3b56d5da66231fc3ee9dc9dafc786c
