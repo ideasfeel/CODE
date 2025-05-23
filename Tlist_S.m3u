@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 #EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ.png" group-title="綜合其他", 緯來日本ᴴᴰ
-rtmp://f13h.mine.nu/sat/tv771
+http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBEB7017910870179108&ct=19346&tsum=f7186077b9ae7cdb1970969bd90a4d0a
 
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ3.png" group-title="綜合其他", 緯來育樂ᴴᴰ
 rtmp://f13h.mine.nu/sat/tv701
