@@ -1,16 +1,18 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
+
 #EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ.png" group-title="綜合其他", 緯來日本ᴴᴰ
-http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBEB7017910870179108&ct=19346&tsum=f7186077b9ae7cdb1970969bd90a4d0a
+rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ3.png" group-title="綜合其他", 緯來育樂ᴴᴰ
-http://211.75.171.121:8563/http/61.67.128.137:8081/hls/68/810/ch030.m3u8
+rtmp://f13h.mine.nu/sat/tv701
 
 #EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ4.png" group-title="綜合其他", 緯來精采ᴴᴰ
 http://61.221.215.25:8800/hls/48/index.m3u8
 
 #EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ2.png" group-title="體育競技", 緯來體育ᴴᴰ
-http://108.181.20.197/livehttpplay?channel_id=20120
+rtmp://f13h.mine.nu/sat/tv721
+
 
 #EXTINF:-1 tvg-id="ELTA體育1" tvg-name="ELTA體育1" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-1%E5%8F%B0.png" group-title="體育競技", ELTA體育1
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
@@ -1088,4 +1090,3 @@ http://php.jdshipin.com:8880/smt.php?id=Qiyi
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="香港频道",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
-
