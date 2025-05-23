@@ -1,32 +1,18 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 
-#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ.png" group-title="綜合其他", 緯來日本ᴴᴰ
-rtmp://f13h.mine.nu/sat/tv771
-
-#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ3.png" group-title="綜合其他", 緯來育樂ᴴᴰ
-rtmp://f13h.mine.nu/sat/tv701
-
-#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ4.png" group-title="綜合其他", 緯來精采ᴴᴰ
-http://61.221.215.25:8800/hls/48/index.m3u8
-
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ2.png" group-title="體育競技", 緯來體育ᴴᴰ
-rtmp://f13h.mine.nu/sat/tv721
-
-
-#EXTINF:-1 tvg-id="ELTA體育1" tvg-name="ELTA體育1" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-1%E5%8F%B0.png" group-title="體育競技", ELTA體育1
-http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
-#EXTINF:-1 tvg-id="ELTA體育2" tvg-name="ELTA體育2" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-2%E5%8F%B0.png" group-title="體育競技", ELTA體育2
-http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-#EXTINF:-1 tvg-id="ELTA體育4" tvg-name="ELTA體育4" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-4%E5%8F%B0.png" group-title="體育競技", ELTA體育4
-http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv003/index.m3u8
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv001/index.m3u8
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視HD
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv002/index.m3u8
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ.png" group-title="綜合其他", 緯來日本ᴴᴰ
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ3.png" group-title="綜合其他", 緯來育樂ᴴᴰ
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ4.png" group-title="綜合其他", 緯來精采ᴴᴰ
+http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="綜合其他",大愛電視
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live007/index.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
@@ -287,6 +273,14 @@ http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn12/index.m3u8
 http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn18/index.m3u8
 #EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
 http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn21/index.m3u8
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ2.png" group-title="體育競技", 緯來體育ᴴᴰ
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-id="ELTA體育1" tvg-name="ELTA體育1" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-1%E5%8F%B0.png" group-title="體育競技", ELTA體育1
+http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+#EXTINF:-1 tvg-id="ELTA體育2" tvg-name="ELTA體育2" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-2%E5%8F%B0.png" group-title="體育競技", ELTA體育2
+http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1 tvg-id="ELTA體育4" tvg-name="ELTA體育4" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-4%E5%8F%B0.png" group-title="體育競技", ELTA體育4
+http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="體育競技",博斯魅力
 http://xn--elt51t.azip.dpdns.org:5008/litv-longturn04/index.m3u8
 #EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="體育競技",博斯高球I
