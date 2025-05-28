@@ -1,86 +1,118 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ.png" group-title="台灣", 緯來日本ᴴᴰ
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ.png" group-title="綜合其他", 緯來日本ᴴᴰ
 rtmp://f13h.mine.nu/sat/tv771
-
-#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ3.png" group-title="台灣", 緯來育樂ᴴᴰ
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ3.png" group-title="綜合其他", 緯來育樂ᴴᴰ
 rtmp://f13h.mine.nu/sat/tv701
-
-#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ4.png" group-title="台灣", 緯來精采ᴴᴰ
+#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ4.png" group-title="綜合其他", 緯來精采ᴴᴰ
 http://61.221.215.25:8800/hls/48/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="台灣", Discovery
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="綜合其他", Discovery
 http://125.227.210.55:8154/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/DWS2.png" group-title="台灣", 動物星球
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/DWS2.png" group-title="綜合其他", 動物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台灣", 民視
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="綜合其他", 民視
 rtmp://f13h.mine.nu/sat/tv051
 
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="台灣", 台視
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="綜合其他", 台視
 rtmp://f13h.mine.nu/sat/tv071
 
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="台灣", 中視
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="綜合其他", 中視
 rtmp://f13h.mine.nu/sat/tv091
 
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣", 華視
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="綜合其他", 華視
 rtmp://f13h.mine.nu/sat/tv111
 
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台灣", TVBS
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://assets.livednow.com/logo/%E4%BA%BA%E9%96%93%E8%A1%9B%E8%A6%96.png" group-title="綜合其他", 人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="綜合其他", TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="台灣", TVBS 歡樂台
+#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-%E6%AD%A1%E6%A8%82%E5%8F%B0.png" group-title="綜合其他", TVBS 歡樂台
 http://125.227.210.55:8187/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="台灣", 民視新聞台
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/EBC2.png" group-title="綜合其他", 東森超視
+rtmp://f13h.mine.nu/sat/tv331
+
+#EXTINF:-1 tvg-id="MOMO" tvg-name="MOMO" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/momo.png" group-title="綜合其他", MOMO
+rtmp://f13h.mine.nu/sat/tv761
+
+#EXTINF:-1 tvg-id="中天娛樂" tvg-name="中天娛樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/cti.png" group-title="綜合其他", 中天娛樂
+http://61.221.215.25:8800/hls/47/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="新聞財經", 民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="台灣", 台視新聞台
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="新聞財經", 台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
-#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣", TVBS 新聞台
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
+rtmp://f13h.mine.nu/sat/tv581
+
+#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="新聞財經", TVBS 新聞台
 http://125.227.210.55:8186/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="台灣", DAZN1
-rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="台灣", DAZN2
+#EXTINF:-1 tvg-id="耀才財經" tvg-name="耀才財經" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/bstv.png" group-title="新聞財經",耀才財經
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="體育競技", DAZN1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="體育競技", DAZN2
 rtmp://f13h.mine.nu/sat/tv741
 
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ2.png" group-title="體育競技", 緯來體育ᴴᴰ
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-id="ELTA體育1" tvg-name="ELTA體育1" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-1%E5%8F%B0.png" group-title="體育競技", ELTA體育1
+http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+#EXTINF:-1 tvg-id="ELTA體育2" tvg-name="ELTA體育2" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-2%E5%8F%B0.png" group-title="體育競技", ELTA體育2
+http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1 tvg-id="ELTA體育3" tvg-name="ELTA體育3" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-3%E5%8F%B0.png" group-title="體育競技", ELTA體育3
+http://ykp.anddowns1888.com:8080/live/m3u8/194/c48094e60be079492afe9fae5d793dea/playlist.m3u8
+#EXTINF:-1 tvg-id="ELTA體育4" tvg-name="ELTA體育4" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-4%E5%8F%B0.png" group-title="體育競技", ELTA體育4
+http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="電影",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="電影戲劇",AXN
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOᴴᴰ" tvg-name="HBOᴴᴰ" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/HBO.png" group-title="電影",HBOᴴᴰ
+#EXTINF:-1 tvg-id="HBOᴴᴰ" tvg-name="HBOᴴᴰ" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/HBO.png" group-title="電影戲劇",HBOᴴᴰ
 http://125.227.210.55:8153/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="電影",HBO
-http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="電影", CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="電影戲劇", CINEMAX
 http://125.227.210.55:8151/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://assets.livednow.com/logo/History.png" group-title="電影", HISTORY
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://assets.livednow.com/logo/History.png" group-title="電影戲劇", HISTORY
 http://37.27.111.214:8080/live/27/hls.m3u8
 
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ5.png" group-title="電影", 緯來電影ᴴᴰ
-https://stream1.freetv.fun/9e136afb1dc4118ba8ebb860706c3dd76e3991d9f9acf3a9abdeee8e1f0261f2.m3u8
+#EXTINF:-1 tvg-id="三立戲劇" tvg-name="三立戲劇" tvg-logo="https://assets.livednow.com/logo/%E4%B8%89%E7%AB%8B%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="電影戲劇", 三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
 
 
+#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/EBC1.png" group-title="電影戲劇", 東森電影
+https://ali.hlspull.yximgs.com/live/11q2w3e4r5t6y7u8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3ed.flv
 
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="https://assets.livednow.com/logo/%E9%BE%8D%E7%A5%A5%E6%99%82%E4%BB%A3.png" group-title="電影戲劇", 龍祥時代
+https://ali.hlspull.yximgs.com/live/14r5t6y7u8i9o0p1q2w3e4r5t6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8.flv
 
-
-
-
-#EXTINF:-1 tvg-id="亞太電台" tvg-name="亞太電台" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/AS1.png" group-title="電台", 亞太電台
-https://n04a-eu.rcs.revma.com/kydend74hv8uv?rj-ttl=5&rj-tok=AAABk3-PFmIANQOl8U4dGJCCgQ
-
-#EXTINF:-1 tvg-id="亞洲電台" tvg-name="亞洲電台" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/AS2.png" group-title="電台", 亞洲電台
-https://n02a-eu.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABk3-DGv0AIdOP5OI3uapVnA
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
