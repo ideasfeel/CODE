@@ -7,8 +7,6 @@ rtmp://f13h.mine.nu/sat/tv771
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ4.png" group-title="綜合其他", 緯來精采ᴴᴰ
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="電影戲劇",AXN
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOᴴᴰ" tvg-name="HBOᴴᴰ" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/HBO.png" group-title="電影戲劇",HBOᴴᴰ
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="電影戲劇", CINEMAX
