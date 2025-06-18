@@ -61,8 +61,6 @@ class Spider(Spider):
 '#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://logo.doube.eu.org/好消息1.png" group-title="綜合其他",好消息1', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv16,1,6', 
 '#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="綜合其他",好消息2', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv17,1,2', 
 '#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="綜合其他",好消息2', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv17,1,6', 
-
-
 '#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://logo.doube.eu.org/民视新闻台.png" group-title="新聞財經",民視新聞台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv13,1,7', 
 '#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://logo.doube.eu.org/台视新闻台.png" group-title="新聞財經",台視新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv051,1,2', 
 '#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://logo.doube.eu.org/台视新闻台.png" group-title="新聞財經",台視新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv051,1,6', 
@@ -82,11 +80,10 @@ class Spider(Spider):
 '#EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="https://logo.doube.eu.org/第1商业台.png" group-title="新聞財經",第1商業台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv104,1,7', 
 '#EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://logo.doube.eu.org/美国之音.png" group-title="新聞財經",美國之音', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv03,1,7', 
 '#EXTINF:-1 tvg-id="半岛国际新闻" tvg-name="半岛国际新闻" tvg-logo="https://logo.doube.eu.org/半岛国际新闻.png" group-title="新聞財經",半島新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv10,1,7',
-
-
 '#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ2.png" group-title="體育競技",緯來體育ᴴᴰ', 'rtmp://f13h.mine.nu/sat/tv721',
 '#EXTINF:-1 tvg-id="ELTA體育1" tvg-name="ELTA體育1" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-1%E5%8F%B0.png" group-title="體育競技",ELTA體育1', 'http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4', 
 '#EXTINF:-1 tvg-id="ELTA體育2" tvg-name="ELTA體育2" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-2%E5%8F%B0.png" group-title="體育競技",ELTA體育2', 'http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab', 
+'#EXTINF:-1 tvg-id="ELTA體育3" tvg-name="ELTA體育3" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-3%E5%8F%B0.png" group-title="體育競技",ELTA體育3', 'http://ykp.anddowns1888.com:8080/live/m3u8/194/c48094e60be079492afe9fae5d793dea/playlist.m3u8',
 '#EXTINF:-1 tvg-id="ELTA體育4" tvg-name="ELTA體育4" tvg-logo="https://assets.livednow.com/logo/ELTA%E9%AB%94%E8%82%B2-4%E5%8F%B0.png" group-title="體育競技",ELTA體育4', 'http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032', 
 '#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://logo.doube.eu.org/博斯魅力.png" group-title="體育競技",博斯魅力', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn04,5,2', 
 '#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="https://logo.doube.eu.org/博斯高球1.png" group-title="體育競技",博斯高球1', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn05,5,2', 
@@ -101,23 +98,17 @@ class Spider(Spider):
 '#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://logo.doube.eu.org/时尚运动X.png" group-title="體育競技",時尚運動X', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv014,1,5', 
 '#EXTINF:-1 tvg-id="TraceSportStars" tvg-name="TraceSportStars" tvg-logo="https://logo.doube.eu.org/TraceSportStars.png" group-title="體育競技",TRACE SPORTS STARS', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv082,1,2', 
 '#EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GINXEsportsTV" tvg-logo="https://logo.doube.eu.org/GINXEsportsTV.png" group-title="體育競技",GINXEsportsTV', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv053,1,8', 
-
-
 '#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="生活旅遊",Smart知識台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn19,5,2',
 '#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="生活旅遊",GLOBETROTTER', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv016,1,6',
 '#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://logo.doube.eu.org/民视旅游台.png" group-title="生活旅遊",民視旅遊', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv07,1,7', 
 '#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="生活旅遊",亞洲旅遊台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv076,1,2', 
-
-
 '#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="紀實探索",Discovery', 'http://125.227.210.55:8154/VideoInput/play.ts', 
 '#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://assets.livednow.com/logo/History.png" group-title="紀實探索",HISTORY', 'http://37.27.111.214:8080/live/27/hls.m3u8', 
-'#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://logo.doube.eu.org/影迷數位電影台.png" group-title="紀實探索",影迷數位電影台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv011,1,6', 
 '#EXTINF:-1 tvg-id="视纳华仁纪实" tvg-name="视纳华仁纪实" tvg-logo="https://logo.doube.eu.org/视纳华仁纪实.png" group-title="紀實探索",視納華仁紀實頻道', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv013,1,6', 
- 
-
 '#EXTINF:-1 tvg-id="HBOᴴ" tvg-name="HBOᴴᴰ" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/HBO.png" group-title="電影戲劇",HBOᴴᴰ', 'http://125.227.210.55:8153/VideoInput/play.ts', 
 '#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="電影戲劇",CINEMAX', 'http://125.227.210.55:8151/VideoInput/play.ts', 
 '#EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="https://logo.doube.eu.org/amc电影台.png" group-title="電影戲劇",amc電影台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv017,1,6', 
+'#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://logo.doube.eu.org/影迷數位電影台.png" group-title="電影戲劇",影迷數位電影台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv011,1,6', 
 '#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片台" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="電影戲劇",龍華洋片', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn02,5,2', 
 '#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://logo.doube.eu.org/龙华经典台.png" group-title="電影戲劇",龍華經典', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn21,5,2', 
 '#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="https://logo.doube.eu.org/龙华戏剧台.png" group-title="電影戲劇",龍華戲劇', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn18,5,6', 
@@ -133,8 +124,6 @@ class Spider(Spider):
 '#EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="https://logo.doube.eu.org/台湾戏剧台.png" group-title="電影戲劇",台灣戲劇台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn22,5,2', 
 '#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://logo.doube.eu.org/公视戏剧.png" group-title="電影戲劇",公視戲劇', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv042,1,6', 
 '#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://logo.doube.eu.org/采昌影剧台.png" group-title="電影戲劇",采昌影劇', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv049,1,8', 
-
-
 '#EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="CLASSICA古典乐" tvg-logo="https://logo.doube.eu.org/CLASSICA古典乐.png" group-title="音樂綜藝",古典音樂台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv059,1,6', 
 '#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TraceUrban" tvg-logo="https://logo.doube.eu.org/TraceUrban.png" group-title="音樂綜藝",TRACE URBAN', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv082,1,6',
 '#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MezzoLiveHD" tvg-logo="https://logo.doube.eu.org/MezzoLiveHD.png" group-title="音樂綜藝",MEZZO LIVE', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv083,1,6', 
@@ -143,8 +132,6 @@ class Spider(Spider):
 '#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://logo.doube.eu.org/TVBS欢乐台.png" group-title="音樂綜藝",Tvbs歡樂台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv068,1,7', 
 '#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="音樂綜藝",八大精彩台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv034,1,6',
 '#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://logo.doube.eu.org/猪哥亮歌厅秀.png" group-title="音樂綜藝",豬哥亮歌廳秀', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv006,1,9',
-
-
 '#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://logo.doube.eu.org/龙华卡通台.png" group-title="兒童卡通",龍華卡通', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn01,4,2', 
 '#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://logo.doube.eu.org/龙华卡通台.png" group-title="兒童卡通",龍華卡通', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn01,4,5', 
 '#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="兒童卡通",靖天卡通台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv044,1,8', 
