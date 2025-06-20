@@ -43,7 +43,6 @@ class Spider(Spider):
 '#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://logo.doube.eu.org/客家电视台.png" group-title="綜合其他",客家電視台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv043,1,6',
 '#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ.png" group-title="綜合其他",緯來日本ᴴᴰ', 'rtmp://f13h.mine.nu/sat/tv771', 
 '#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ3.png" group-title="綜合其他",緯來育樂ᴴᴰ', 'rtmp://f13h.mine.nu/sat/tv701', 
-'#EXTINF:-1 tvg-id="緯來精采" tvg-name="緯來精采" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/WRJ4.png" group-title="綜合其他",緯來精采ᴴᴰ', 'http://61.221.215.25:8800/hls/48/index.m3u8',
 '#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="綜合其他",靖天日本台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv047,1,8', 
 '#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://logo.doube.eu.org/靖天综合台.png" group-title="綜合其他",靖天綜合台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv046,1,8', 
 '#EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://logo.doube.eu.org/靖天欢乐台.png" group-title="綜合其他",靖天歡樂台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv054,1,8',  
