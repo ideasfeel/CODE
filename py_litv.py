@@ -102,7 +102,6 @@ class Spider(Spider):
 '#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="台灣頻道",亞洲旅遊台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv076,1,2', 
 '#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/ASIA.png" group-title="台灣頻道",Discovery', 'http://125.227.210.55:8154/VideoInput/play.ts', 
 '#EXTINF:-1 tvg-id="视纳华仁纪实" tvg-name="视纳华仁纪实" tvg-logo="https://logo.doube.eu.org/视纳华仁纪实.png" group-title="台灣頻道",視納華仁紀實頻道', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv013,1,6', 
-'#EXTINF:-1 tvg-id="HBOᴴ" tvg-name="HBOᴴᴰ" tvg-logo="https://raw.githubusercontent.com/ideasfeel/IMG/refs/heads/main/HBO.png" group-title="台灣頻道",HBOᴴᴰ', 'http://125.227.210.55:8153/VideoInput/play.ts', 
 '#EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="https://logo.doube.eu.org/amc电影台.png" group-title="台灣頻道",amc電影台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv017,1,6', 
 '#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://logo.doube.eu.org/影迷數位電影台.png" group-title="台灣頻道",影迷數位電影台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv011,1,6', 
 '#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片台" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="台灣頻道",龍華洋片', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn02,5,2', 
